@@ -1,0 +1,14 @@
+iframe{
+    width: -webkit-fill-available;
+    min-height: 500px;
+}
+
+.DRS_Link_Table{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: 10px;
+}
+
+.Accordion_Content{
+    padding-bottom: 50px;
+}

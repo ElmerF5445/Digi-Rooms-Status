@@ -1,0 +1,262 @@
+{
+    "App_Info": {
+        "Title": "Digi-Rooms",
+        "Version_Title": "1.0",
+        "Version_Number": "1.0",
+        "Version_CompilationDate": "18 August 2024",
+        "Copyright_Title": "Team R.E.D.",
+        "Copyright_Icon": "Assets/Icons/favicon_old.png",
+        "Key_Prefix": "ERUMAUI"
+    },
+    "App_Properties": [
+        {
+            "Page_File": "App_Template.html",
+            "Page_Property": {
+                "TitleBar_Title": "ERUMA UI",
+                "Page": {
+                    "Title": "Template",
+                    "Icon": "Assets/Icons/favicon.png",
+                    "MainView": {
+                        "UseFullContainer": false
+                    }
+                },
+                "Header": {
+                    "Title": "Template Page",
+                    "Icon": "Assets/Icons/favicon.png",
+                    "Menu_Contents": {
+                        "PageNavigation": [
+                            {
+                                "Title": "App Template",
+                                "Link": "Pages/App_Template.html",
+                                "Icon": "Assets/Icons/icon_home.png"
+                            },
+                            {
+                                "Title": "Settings",
+                                "Link": "Pages/ERUMAUI_Settings.html",
+                                "Icon": "Assets/Icons/icon_settings.png"
+                            },
+                            {
+                                "Title": "ERUMA UI 2",
+                                "Link": "2/index.html",
+                                "Icon": "Assets/Icons/ContentByElmerF.png"
+                            }
+                            
+                        ],
+                        "Actions": [
+                            {
+                                "Title": "Action 1",
+                                "Link": null,
+                                "Icon": "Assets/Icons/icon_home.png",
+                                "OnclickFunction": null,
+                                "CloseAfterClick": false
+                            },
+                            {
+                                "Title": "Action 2",
+                                "Link": null,
+                                "Icon": "Assets/Icons/icon_home.png",
+                                "OnclickFunction": null,
+                                "CloseAfterClick": false
+                            }
+                        ]
+                    }
+                },
+                "Sidebar": {
+                    "HideWhenCollapsed": false,
+                    "PushContentWhenExpanded": false,
+                    "Width_Expanded": 300,
+                    "Width_Collapsed": 40
+                },
+                "LoadingScreen": {
+                    "Configuration": "Splash"
+                },
+                "Features": {
+                    "Header": true,
+                    "Sidebar": true,
+                    "Sidebar_Elements": {
+                        "Toggle": true,
+                        "Container": true,
+                        "Tabs": false
+                    },
+                    "ClockScreen": true,
+                    "LoadingScreen": true,
+                    "StatusBar": true,
+                    "StatusBar_Elements": {
+                        "EnableAll": true,
+                        "Clock": true,
+                        "Battery": true,
+                        "Connection": true
+                    },
+                    "Ribbon": true,
+                    "Toasts": true,
+                    "Projects": true
+                }
+            }
+        },
+        {
+            "Page_File": "ERUMAUI_Settings.html",
+            "Page_Property": {
+                "TitleBar_Title": "ERUMA UI",
+                "Page": {
+                    "Title": "Settings",
+                    "Icon": "Assets/Icons/icon_settings.png",
+                    "MainView": {
+                        "UseFullContainer": false
+                    }
+                },
+                "Header": {
+                    "Title": "ERUMA UI Settings",
+                    "Icon": "Assets/Icons/icon_settings.png",
+                    "Menu_Contents": {
+                        "PageNavigation": [
+                            
+                            
+                        ],
+                        "Actions": [
+                            {
+                                "Title": "Back",
+                                "Link": null,
+                                "Icon": "Assets/Icons/icon_leftArrow.png",
+                                "OnclickFunction": "history.back()",
+                                "CloseAfterClick": false
+                            },
+                            {
+                                "Title": "Save",
+                                "Link": null,
+                                "Icon": "Assets/Icons/iconNew_save.png",
+                                "OnclickFunction": "Settings_Save()",
+                                "CloseAfterClick": false
+                            },
+                            {
+                                "Title": "Import settings",
+                                "Link": null,
+                                "Icon": "Assets/Icons/iconNew_download.png",
+                                "OnclickFunction": "Subwindows_Open('Settings_Import')",
+                                "CloseAfterClick": true
+                            },
+                            {
+                                "Title": "Export settings",
+                                "Link": null,
+                                "Icon": "Assets/Icons/icon_output.png",
+                                "OnclickFunction": "Subwindows_Open('Settings_Export')",
+                                "CloseAfterClick": true
+                            }
+                        ]
+                    }
+                },
+                "Sidebar": {
+                    "HideWhenCollapsed": false,
+                    "PushContentWhenExpanded": false,
+                    "Width_Expanded": 300,
+                    "Width_Collapsed": 40
+                },
+                "LoadingScreen": {
+                    "Configuration": "Simple"
+                },
+                "Features": {
+                    "Header": true,
+                    "Sidebar": true,
+                    "Sidebar_Elements": {
+                        "Toggle": true,
+                        "Container": true,
+                        "Tabs": true
+                    },
+                    "ClockScreen": true,
+                    "LoadingScreen": true,
+                    "StatusBar": true,
+                    "StatusBar_Elements": {
+                        "EnableAll": true,
+                        "Clock": true,
+                        "Battery": true,
+                        "Connection": true
+                    },
+                    "Ribbon": true,
+                    "Toasts": true,
+                    "Projects": false
+                }
+            }
+        },
+        {
+            "Page_File": "DRS_Main.html",
+            "Page_Property": {
+                "TitleBar_Title": "Digi-Rooms Status",
+                "Page": {
+                    "Title": "Home",
+                    "Icon": "Assets/Icons/favicon.png",
+                    "MainView": {
+                        "UseFullContainer": false
+                    }
+                },
+                "Header": {
+                    "Title": "Digi-Rooms",
+                    "Icon": "Assets/Icons/favicon.png",
+                    "Menu_Contents": {
+                        "PageNavigation": [
+                            {
+                                "Title": "App Template",
+                                "Link": "Pages/App_Template.html",
+                                "Icon": "Assets/Icons/icon_home.png"
+                            },
+                            {
+                                "Title": "Settings",
+                                "Link": "Pages/ERUMAUI_Settings.html",
+                                "Icon": "Assets/Icons/icon_settings.png"
+                            },
+                            {
+                                "Title": "ERUMA UI 2",
+                                "Link": "2/index.html",
+                                "Icon": "Assets/Icons/ContentByElmerF.png"
+                            }
+                            
+                        ],
+                        "Actions": [
+                            {
+                                "Title": "Action 1",
+                                "Link": null,
+                                "Icon": "Assets/Icons/icon_home.png",
+                                "OnclickFunction": null,
+                                "CloseAfterClick": false
+                            },
+                            {
+                                "Title": "Action 2",
+                                "Link": null,
+                                "Icon": "Assets/Icons/icon_home.png",
+                                "OnclickFunction": null,
+                                "CloseAfterClick": false
+                            }
+                        ]
+                    }
+                },
+                "Sidebar": {
+                    "HideWhenCollapsed": false,
+                    "PushContentWhenExpanded": false,
+                    "Width_Expanded": 300,
+                    "Width_Collapsed": 40
+                },
+                "LoadingScreen": {
+                    "Configuration": "Splash"
+                },
+                "Features": {
+                    "Header": false,
+                    "Sidebar": true,
+                    "Sidebar_Elements": {
+                        "Toggle": true,
+                        "Container": true,
+                        "Tabs": true
+                    },
+                    "ClockScreen": true,
+                    "LoadingScreen": true,
+                    "StatusBar": true,
+                    "StatusBar_Elements": {
+                        "EnableAll": true,
+                        "Clock": true,
+                        "Battery": true,
+                        "Connection": true
+                    },
+                    "Ribbon": false,
+                    "Toasts": true,
+                    "Projects": true
+                }
+            }
+        }
+    ]
+}
