@@ -21,6 +21,7 @@
     <script src="Scripts/Javascript/App_Javascript_Initialization.js" defer></script>
     <script src="Scripts/Javascript/App_Javascript_Projects.js" defer></script>
     <script src="Scripts/Javascript/ERUMAUI_Javascript_Settings.js" defer></script>
+    <script src="Scripts/Javascript/BOS_Javascript.js" defer></script>
     <div class="LoadingScreen" id="LoadingScreen">
         <div class="LoadingScreen_Simple" id="LoadingScreen_Simple" Display="none">
             <div class="LoadingScreen_Simple_Main">
@@ -488,10 +489,10 @@
 		</div>
     </header>
     <div class="Tabs_Vertical_Container_Selector Sidebar" id="Sidebar" State="Collapsed" Style_Margin_Header="Enabled">
-        <div class="Tabs_Vertical_Container_Selector_Item" id="TabIDHere" onclick="Tabs_ChangeTab(this.id, 'Vertical')" Tabs_Tab_Title="ERUMA UI Elements" Tabs_Tab_Target_Container="Content" Tabs_Tab_Target_Tab="tab_TabIDHere" Tabs_UseRibbon="true" Tabs_Tab_Target_Ribbon="Ribbon_TabIDHere" Tabs_UseHeaderTitle="true" State="Selected">
+        <div class="Tabs_Vertical_Container_Selector_Item" id="TabIDHere" onclick="Tabs_ChangeTab(this.id, 'Vertical')" Tabs_Tab_Title="ERUMA UI Elements" Tabs_Tab_Target_Container="Content" Tabs_Tab_Target_Tab="tab_TabIDHere" Tabs_UseRibbon="true" Tabs_Tab_Target_Ribbon="Ribbon_TabIDHere" Tabs_UseHeaderTitle="true" State="Selected" Tabs_UseFullContainer="false">
 			<div class="Tabs_Vertical_Container_Selector_Item_Icon">
 				<h2 class="Tabs_Vertical_Container_Selector_Item_Icon_Icon">
-					1
+					H
 				</h2>
 			</div>
 			<p class="Tabs_Vertical_Container_Selector_Item_Text">
@@ -506,17 +507,17 @@
 				Tab 2
 			</p>
             
-		</div>
+		</div> -->
 		<div class="Tabs_Vertical_Container_Selector_Item" id="TabIDHere3" onclick="Tabs_ChangeTab(this.id, 'Vertical')" Tabs_Tab_Title="New UI Elements" Tabs_Tab_Target_Container="Content" Tabs_Tab_Target_Tab="tab_TabIDHere3" Tabs_UseRibbon="hide" Tabs_Tab_Target_Ribbon="Ribbon_TabIDHere2" Tabs_UseHeaderTitle="true" Tabs_UseFullContainer="true">
 			<div class="Tabs_Vertical_Container_Selector_Item_Icon">
 				<h2 class="Tabs_Vertical_Container_Selector_Item_Icon_Icon">
-					3
+					F
 				</h2>
 			</div>
 			<p class="Tabs_Vertical_Container_Selector_Item_Text">
-				Tab 3
+				Files
 			</p>
-		</div> -->
+		</div>
     </div>
     <div class="MainContent_Container" id="MainContent_Container">
         <div class="MainContent_Container_Pusher" id="MainContent_Container_Pusher"></div>
@@ -552,7 +553,7 @@
                                 <button class="General_Button" onclick="Page_ChangePage('https://docs.google.com/document/d/1Amdvp239JpTP6OaKnz6GKUGRWVFufIJy/edit?usp=sharing&ouid=104989652044444560417&rtpof=true&sd=true', null, 'New')">
                                     Revision List
                                 </button>
-                                <button class="General_Button" onclick="Page_ChangePage('https://drive.google.com/file/d/108uiupD0Ys1-55zSNv_r2zj3EJdTlVh-/view?usp=sharing', null, 'New')">
+                                <button class="General_Button" onclick="Page_ChangePage('https://drive.google.com/file/d/1mCWk4bo_saGxMVQj0lTsyp-RD2NBQZfA/view?usp=sharing', null, 'New')">
                                     Story Board
                                 </button>
                             </div>
@@ -562,7 +563,7 @@
                 </div>
                 <div class="Tab_Container_Content_Item Content_Item" id="tab_TabIDHere2">
                     <h1 class="General_Title">
-                        Tab 2
+                        Files
                     </h1>
                     <div class="Tab_Horizontal_Container_Selector" id="Tab_Horizontal_Container_Selector">
                         <div class="Tab_Horizontal_Container_Selector_Item" onclick="Tabs_ChangeTab(this.id, 'Horizontal')" id="Tabs_Horizontal_Button_1" Tabs_Tab_Title = "Title for title bar here" Tabs_Tab_Target_Container = "Tabs_Tab_Target_Container_Horizontal_1" Tabs_Tab_Target_Tab = "HorizontalTab_Hori_Tab_IDHere_1" State="Selected">
@@ -607,9 +608,42 @@
                     </div>	
                 </div>
                 <div class="Tab_Container_Content_Item Content_Item" id="tab_TabIDHere3">
-                    <h1 class="General_Title">
-                        Tab 3
-                    </h1>
+                    <div class="BOS_Explorer">
+                        <div class="BOS_Explorer_Breadcrumbs" id="BOS_Explorer_Breadcrumbs">
+                            <p class="BOS_Explorer_Breadcrumbs_Item">
+                                Stuffs /
+                            </p>
+                            <p class="BOS_Explorer_Breadcrumbs_Item">
+                                Reviewers /
+                            </p>
+                        </div>
+                        <div class="BOS_Explorer_Header">
+                            <h1 class="BOS_Explorer_Header_Title" id="BOS_Explorer_Header_Title">
+                                Stuffs
+                            </h1>
+                        </div>
+                        <div class="BOS_Explorer_List" id="BOS_Explorer_List">
+                            <button class="General_Button BOS_Explorer_List_Item">
+                                <h2 class="BOS_Explorer_List_Item_Title">
+                                    Reviewers
+                                </h2>
+                                <p class="BOS_Explorer_List_Item_Subtitle">
+                                    Folder
+                                </p>
+                            </button> 
+                            <button class="General_Button BOS_Explorer_List_Item">
+                                <h2 class="BOS_Explorer_List_Item_Title">
+                                    Reviewers
+                                </h2>
+                                <p class="BOS_Explorer_List_Item_Subtitle">
+                                    Folder
+                                </p>
+                            </button> 
+                        </div>
+                        <div class="BOS_Explorer_Preview">
+                            <iframe class="BOS_Explorer_Preview_Frame" id="BOS_Explorer_Preview_Frame" width="100%" height="90%"></iframe>
+                        </div>
+                    </div>
                 </div>
             </div>
         </main>
