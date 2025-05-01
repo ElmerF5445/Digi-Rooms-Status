@@ -86,7 +86,7 @@
 
 .BOS_Explorer_Preview_Frame{
     width: -webkit-fill-available;
-    height: calc(100% - 75px);
+    height: 100%;
     zoom: 1;
     border: none;
 }
