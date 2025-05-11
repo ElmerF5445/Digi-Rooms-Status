@@ -90,6 +90,12 @@
                     "Type": "File",
                     "Extension": ".pdf",
                     "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Journals/RED-JN-Week-14.pdf"
+                },
+                {
+                    "Name": "Week 15",
+                    "Type": "File",
+                    "Extension": ".pdf",
+                    "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Journals/RED-JN-Week-15.pdf"
                 }
             ]
         },
@@ -102,6 +108,12 @@
                     "Type": "File",
                     "Extension": ".pdf",
                     "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Transcripts/RED-TS-28-Feb-2025.pdf"
+                },
+                {
+                    "Name": "May 2, 2025",
+                    "Type": "File",
+                    "Extension": ".pdf",
+                    "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Transcripts/RED-TS-2-May-2025.pdf"
                 }
             ]
         },
