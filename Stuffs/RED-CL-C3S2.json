@@ -1,0 +1,167 @@
+[
+    {
+        "Section_Name": "Revisions",
+        "Section_Contents": [
+            {
+                "ID": "REVISION-FY1",
+                "Name": "Your problems are not equal and aligned with each other. Align the specific problems with the specific objectives.",
+                "Done": true
+            },
+            {
+                "ID": "REVISION-FY2",
+                "Name": "Lack of supporting documents",
+                "Done": true
+            },
+            {
+                "ID": "REVISION-FY3",
+                "Name": "Feasibility study that could tell whether the system is more beneficial than just an expense.",
+                "Done": false
+            },
+            {
+                "ID": "REVISION-FY4",
+                "Name": "No signed transcript of interview.",
+                "Done": true
+            },
+            {
+                "ID": "REVISION-FY5",
+                "Name": "No letter of acceptance as client-developer.",
+                "Done": false
+            },
+            {
+                "ID": "REVISION-FY6",
+                "Name": "No business process flow shown.",
+                "Done": false
+            },
+            {
+                "ID": "REVISION-FY7",
+                "Name": "Establish the current manual process and how you want it to improve it through your proposed application.",
+                "Done": true
+            },
+            {
+                "ID": "REVISION-FY8",
+                "Name": "Part of limitation is messaging not included. Why?",
+                "Done": true
+            },
+            {
+                "ID": "REVISION-FY9",
+                "Name": "How many employees per campus? (Teaching and non-teaching)",
+                "Done": true
+            },
+            {
+                "ID": "REVISION-FY10",
+                "Name": "Who can request/reserve facilities?",
+                "Done": true
+            },
+            {
+                "ID": "REVISION-FY11",
+                "Name": "Where is the guideline in borrowing/reserving a facility provided by your client? Provide the guidelines, school policy in terms of facility usage.",
+                "Done": true
+            },
+            {
+                "ID": "REVISION-FY12",
+                "Name": "How many rooms need reservations or must go through the process of reservation?",
+                "Done": true
+            },
+            {
+                "ID": "REVISION-FY13",
+                "Name": "How many students enrolled per campus?",
+                "Done": true
+            },
+            {
+                "ID": "REVISION-FY14",
+                "Name": "Do the school share resources/facilities?",
+                "Done": true
+            },
+            {
+                "ID": "REVISION-FY15",
+                "Name": "How many users, facilities?",
+                "Done": true
+            },
+            {
+                "ID": "REVISION-FY16",
+                "Name": "How will you expedite the procedure?",
+                "Done": true
+            },
+            {
+                "ID": "REVISION-FY17",
+                "Name": "Cite the improvement from manual to your proposal.",
+                "Done": true
+            },
+            {
+                "ID": "REVISION-MS1",
+                "Name": "Do you have your journal?",
+                "Done": true
+            },
+            {
+                "ID": "REVISION-MS2",
+                "Name": "If a new room was added, how will you process that?",
+                "Done": true
+            },
+            {
+                "ID": "REVISION-MS3",
+                "Name": "Who has access in the system?",
+                "Done": true
+            },
+            {
+                "ID": "REVISION-MS4",
+                "Name": "Are students allowed to use it?",
+                "Done": true
+            },
+            {
+                "ID": "REVISION-MS5",
+                "Name": "“To prevent scheduling conflicts with immediate automated notifications”. Can you explain?",
+                "Done": true
+            },
+            {
+                "ID": "REVISION-MS6",
+                "Name": "“Interactive map module”. How?",
+                "Done": true
+            },
+            {
+                "ID": "REVISION-MS7",
+                "Name": "“Floor plan upload”. How?",
+                "Done": true
+            },
+            {
+                "ID": "REVISION-MS8",
+                "Name": "How many rooms/equipment/laboratories are we talking about? ",
+                "Done": true
+            },
+            {
+                "ID": "REVISION-VU1",
+                "Name": "Introduction is too lengthy and seems padded. Trim.",
+                "Done": true
+            },
+            {
+                "ID": "REVISION-VU2",
+                "Name": "“Admins” create and approve? ",
+                "Done": true
+            },
+            {
+                "ID": "REVISION-VU3",
+                "Name": "Paper did not mention users as having permission to create utilization request.",
+                "Done": true
+            },
+            {
+                "ID": "REVISION-VU4",
+                "Name": "Lack of supporting documents.",
+                "Done": false
+            },
+            {
+                "ID": "REVISION-VU5",
+                "Name": "Corrections in scopes and limitations.",
+                "Done": true
+            },
+            {
+                "ID": "REVISION-VU6",
+                "Name": "Speaking. Improve communication skills.",
+                "Done": false
+            },
+            {
+                "ID": "REVISION-VU7",
+                "Name": "Proper analyses and applied data processing.",
+                "Done": false
+            }
+        ]
+    }
+]
