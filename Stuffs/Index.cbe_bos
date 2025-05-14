@@ -8,6 +8,12 @@
             "Type": "Folder",
             "Content": [
                 {
+                    "Name": "Format",
+                    "Type": "File",
+                    "Extension": ".pdf",
+                    "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Manuscripts/RED-MNS-C3S2-Format.pdf"
+                },
+                {
                     "Name": "Chapter II Draft 1 (12 May 2025)",
                     "Type": "File",
                     "Extension": ".pdf",
