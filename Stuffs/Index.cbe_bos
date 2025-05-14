@@ -4,104 +4,212 @@
     "Type": "Folder",
     "Content": [
         {
+            "Name": "Manuscript Drafts",
+            "Type": "Folder",
+            "Content": [
+                {
+                    "Name": "Chapter II Draft 1 (12 May 2025)",
+                    "Type": "File",
+                    "Extension": ".pdf",
+                    "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Manuscripts/RED-MNS-C3S2-C2-D1.pdf"
+                }
+            ]
+        },
+        {
             "Name": "Journals",
             "Type": "Folder",
             "Content": [
                 {
-                    "Name": "Week 1",
-                    "Type": "File",
-                    "Extension": ".pdf",
-                    "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Journals/RED-JN-Week-1.pdf"
+                    "Name": "PDFs",
+                    "Type": "Folder",
+                    "Content": [
+                        {
+                            "Name": "Week 1",
+                            "Type": "File",
+                            "Extension": ".pdf",
+                            "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Journals/PDFs/RED-JN-Week-1.pdf"
+                        },
+                        {
+                            "Name": "Week 2",
+                            "Type": "File",
+                            "Extension": ".pdf",
+                            "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Journals/PDFs/RED-JN-Week-2.pdf"
+                        },
+                        {
+                            "Name": "Week 3",
+                            "Type": "File",
+                            "Extension": ".pdf",
+                            "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Journals/PDFs/RED-JN-Week-3.pdf"
+                        },
+                        {
+                            "Name": "Week 4",
+                            "Type": "File",
+                            "Extension": ".pdf",
+                            "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Journals/PDFs/RED-JN-Week-4.pdf"
+                        },
+                        {
+                            "Name": "Week 5",
+                            "Type": "File",
+                            "Extension": ".pdf",
+                            "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Journals/PDFs/RED-JN-Week-5.pdf"
+                        },
+                        {
+                            "Name": "Week 6",
+                            "Type": "File",
+                            "Extension": ".pdf",
+                            "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Journals/PDFs/RED-JN-Week-6.pdf"
+                        },
+                        {
+                            "Name": "Week 7",
+                            "Type": "File",
+                            "Extension": ".pdf",
+                            "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Journals/PDFs/RED-JN-Week-7.pdf"
+                        },
+                        {
+                            "Name": "Week 8",
+                            "Type": "File",
+                            "Extension": ".pdf",
+                            "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Journals/PDFs/RED-JN-Week-8.pdf"
+                        },
+                        {
+                            "Name": "Week 9",
+                            "Type": "File",
+                            "Extension": ".pdf",
+                            "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Journals/PDFs/RED-JN-Week-9.pdf"
+                        },
+                        {
+                            "Name": "Week 10",
+                            "Type": "File",
+                            "Extension": ".pdf",
+                            "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Journals/PDFs/RED-JN-Week-10.pdf"
+                        },
+                        {
+                            "Name": "Week 11",
+                            "Type": "File",
+                            "Extension": ".pdf",
+                            "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Journals/PDFs/RED-JN-Week-11.pdf"
+                        },
+                        {
+                            "Name": "Week 12",
+                            "Type": "File",
+                            "Extension": ".pdf",
+                            "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Journals/PDFs/RED-JN-Week-12.pdf"
+                        },
+                        {
+                            "Name": "Week 13",
+                            "Type": "File",
+                            "Extension": ".pdf",
+                            "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Journals/PDFs/RED-JN-Week-13.pdf"
+                        },
+                        {
+                            "Name": "Week 14",
+                            "Type": "File",
+                            "Extension": ".pdf",
+                            "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Journals/PDFs/RED-JN-Week-14.pdf"
+                        },
+                        {
+                            "Name": "Week 15",
+                            "Type": "File",
+                            "Extension": ".pdf",
+                            "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Journals/PDFs/RED-JN-Week-15.pdf"
+                        },
+                        {
+                            "Name": "Week 16",
+                            "Type": "File",
+                            "Extension": ".pdf",
+                            "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Journals/PDFs/RED-JN-Week-16.pdf"
+                        }
+                    ]
                 },
                 {
-                    "Name": "Week 2",
-                    "Type": "File",
-                    "Extension": ".pdf",
-                    "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Journals/RED-JN-Week-2.pdf"
-                },
-                {
-                    "Name": "Week 3",
-                    "Type": "File",
-                    "Extension": ".pdf",
-                    "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Journals/RED-JN-Week-3.pdf"
-                },
-                {
-                    "Name": "Week 4",
-                    "Type": "File",
-                    "Extension": ".pdf",
-                    "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Journals/RED-JN-Week-4.pdf"
-                },
-                {
-                    "Name": "Week 5",
-                    "Type": "File",
-                    "Extension": ".pdf",
-                    "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Journals/RED-JN-Week-5.pdf"
-                },
-                {
-                    "Name": "Week 6",
-                    "Type": "File",
-                    "Extension": ".pdf",
-                    "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Journals/RED-JN-Week-6.pdf"
-                },
-                {
-                    "Name": "Week 7",
-                    "Type": "File",
-                    "Extension": ".pdf",
-                    "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Journals/RED-JN-Week-7.pdf"
-                },
-                {
-                    "Name": "Week 8",
-                    "Type": "File",
-                    "Extension": ".pdf",
-                    "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Journals/RED-JN-Week-8.pdf"
-                },
-                {
-                    "Name": "Week 9",
-                    "Type": "File",
-                    "Extension": ".pdf",
-                    "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Journals/RED-JN-Week-9.pdf"
-                },
-                {
-                    "Name": "Week 10",
-                    "Type": "File",
-                    "Extension": ".pdf",
-                    "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Journals/RED-JN-Week-10.pdf"
-                },
-                {
-                    "Name": "Week 11",
-                    "Type": "File",
-                    "Extension": ".pdf",
-                    "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Journals/RED-JN-Week-11.pdf"
-                },
-                {
-                    "Name": "Week 12",
-                    "Type": "File",
-                    "Extension": ".pdf",
-                    "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Journals/RED-JN-Week-12.pdf"
-                },
-                {
-                    "Name": "Week 13",
-                    "Type": "File",
-                    "Extension": ".pdf",
-                    "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Journals/RED-JN-Week-13.pdf"
-                },
-                {
-                    "Name": "Week 14",
-                    "Type": "File",
-                    "Extension": ".pdf",
-                    "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Journals/RED-JN-Week-14.pdf"
-                },
-                {
-                    "Name": "Week 15",
-                    "Type": "File",
-                    "Extension": ".pdf",
-                    "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Journals/RED-JN-Week-15.pdf"
-                },
-                {
-                    "Name": "Week 16",
-                    "Type": "File",
-                    "Extension": ".pdf",
-                    "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Journals/RED-JN-Week-16.pdf"
+                    "Name": "Scanned & Signed",
+                    "Type": "Folder",
+                    "Content": [
+                        {
+                            "Name": "Week 1",
+                            "Type": "File",
+                            "Extension": ".jpg",
+                            "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Journals/Scanned/RED-JN-S-Week-1.jpg"
+                        },
+                        {
+                            "Name": "Week 2",
+                            "Type": "File",
+                            "Extension": ".jpg",
+                            "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Journals/Scanned/RED-JN-S-Week-2.jpg"
+                        },
+                        {
+                            "Name": "Week 3",
+                            "Type": "File",
+                            "Extension": ".jpg",
+                            "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Journals/Scanned/RED-JN-S-Week-3.jpg"
+                        },
+                        {
+                            "Name": "Week 4",
+                            "Type": "File",
+                            "Extension": ".jpg",
+                            "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Journals/Scanned/RED-JN-S-Week-4.jpg"
+                        },
+                        {
+                            "Name": "Week 5",
+                            "Type": "File",
+                            "Extension": ".jpg",
+                            "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Journals/Scanned/RED-JN-S-Week-5.jpg"
+                        },
+                        {
+                            "Name": "Week 6",
+                            "Type": "File",
+                            "Extension": ".jpg",
+                            "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Journals/Scanned/RED-JN-S-Week-6.jpg"
+                        },
+                        {
+                            "Name": "Week 7",
+                            "Type": "File",
+                            "Extension": ".jpg",
+                            "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Journals/Scanned/RED-JN-S-Week-7.jpg"
+                        },
+                        {
+                            "Name": "Week 8",
+                            "Type": "File",
+                            "Extension": ".jpg",
+                            "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Journals/Scanned/RED-JN-S-Week-8.jpg"
+                        },
+                        {
+                            "Name": "Week 9",
+                            "Type": "File",
+                            "Extension": ".jpg",
+                            "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Journals/Scanned/RED-JN-S-Week-9.jpg"
+                        },
+                        {
+                            "Name": "Week 10",
+                            "Type": "File",
+                            "Extension": ".jpg",
+                            "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Journals/Scanned/RED-JN-S-Week-10.jpg"
+                        },
+                        {
+                            "Name": "Week 11",
+                            "Type": "File",
+                            "Extension": ".jpg",
+                            "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Journals/Scanned/RED-JN-S-Week-11.jpg"
+                        },
+                        {
+                            "Name": "Week 12",
+                            "Type": "File",
+                            "Extension": ".jpg",
+                            "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Journals/Scanned/RED-JN-S-Week-12.jpg"
+                        },
+                        {
+                            "Name": "Week 13",
+                            "Type": "File",
+                            "Extension": ".jpg",
+                            "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Journals/Scanned/RED-JN-S-Week-13.jpg"
+                        },
+                        {
+                            "Name": "Week 14",
+                            "Type": "File",
+                            "Extension": ".jpg",
+                            "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Journals/Scanned/RED-JN-S-Week-14.jpg"
+                        }
+                    ]
                 }
             ]
         },
@@ -110,16 +218,106 @@
             "Type": "Folder",
             "Content": [
                 {
-                    "Name": "February 28, 2025",
-                    "Type": "File",
-                    "Extension": ".pdf",
-                    "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Transcripts/RED-TS-28-Feb-2025.pdf"
+                    "Name": "PDFs",
+                    "Type": "Folder",
+                    "Content": [
+                        {
+                            "Name": "February 28, 2025",
+                            "Type": "File",
+                            "Extension": ".pdf",
+                            "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Transcripts/PDFs/RED-TS-28-Feb-2025.pdf"
+                        },
+                        {
+                            "Name": "May 2, 2025",
+                            "Type": "File",
+                            "Extension": ".pdf",
+                            "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Transcripts/PDFs/RED-TS-2-May-2025.pdf"
+                        }
+                    ]
                 },
                 {
-                    "Name": "May 2, 2025",
-                    "Type": "File",
-                    "Extension": ".pdf",
-                    "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Transcripts/RED-TS-2-May-2025.pdf"
+                    "Name": "Scanned",
+                    "Type": "Folder",
+                    "Content": [
+                        {
+                            "Name": "28 February 2025",
+                            "Type": "Folder",
+                            "Content": [
+                                {
+                                    "Name": "Page 1",
+                                    "Type": "File",
+                                    "Extension": ".jpg",
+                                    "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Transcripts/28-Feb-2025/Scanned/RED-TS-S-28-Feb-2025-1.jpg"
+                                },
+                                {
+                                    "Name": "Page 2",
+                                    "Type": "File",
+                                    "Extension": ".jpg",
+                                    "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Transcripts/28-Feb-2025/Scanned/RED-TS-S-28-Feb-2025-2.jpg"
+                                },
+                                {
+                                    "Name": "Page 3",
+                                    "Type": "File",
+                                    "Extension": ".jpg",
+                                    "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Transcripts/28-Feb-2025/Scanned/RED-TS-S-28-Feb-2025-3.jpg"
+                                },
+                                {
+                                    "Name": "Page 4",
+                                    "Type": "File",
+                                    "Extension": ".jpg",
+                                    "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Transcripts/28-Feb-2025/Scanned/RED-TS-S-28-Feb-2025-4.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "2 May 2025",
+                            "Type": "Folder",
+                            "Content": [
+                                {
+                                    "Name": "Page 1",
+                                    "Type": "File",
+                                    "Extension": ".jpg",
+                                    "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Transcripts/2-May-2025/Scanned/RED-TS-S-2-May-2025-1.jpg"
+                                },
+                                {
+                                    "Name": "Page 2",
+                                    "Type": "File",
+                                    "Extension": ".jpg",
+                                    "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Transcripts/2-May-2025/Scanned/RED-TS-S-2-May-2025-2.jpg"
+                                },
+                                {
+                                    "Name": "Page 3",
+                                    "Type": "File",
+                                    "Extension": ".jpg",
+                                    "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Transcripts/2-May-2025/Scanned/RED-TS-S-2-May-2025-3.jpg"
+                                },
+                                {
+                                    "Name": "Page 4",
+                                    "Type": "File",
+                                    "Extension": ".jpg",
+                                    "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Transcripts/2-May-2025/Scanned/RED-TS-S-2-May-2025-4.jpg"
+                                },
+                                {
+                                    "Name": "Page 5",
+                                    "Type": "File",
+                                    "Extension": ".jpg",
+                                    "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Transcripts/2-May-2025/Scanned/RED-TS-S-2-May-2025-5.jpg"
+                                },
+                                {
+                                    "Name": "Page 6",
+                                    "Type": "File",
+                                    "Extension": ".jpg",
+                                    "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Transcripts/2-May-2025/Scanned/RED-TS-S-2-May-2025-6.jpg"
+                                },
+                                {
+                                    "Name": "Page 7",
+                                    "Type": "File",
+                                    "Extension": ".jpg",
+                                    "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Transcripts/2-May-2025/Scanned/RED-TS-S-2-May-2025-7.jpg"
+                                }
+                            ]
+                        }
+                    ]
                 }
             ]
         },
@@ -144,6 +342,90 @@
                     "Type": "File",
                     "Extension": ".pdf",
                     "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Presentations/RED-PST-StoryBoard_2.pdf"
+                }
+            ]
+        },
+        {
+            "Name": "Letters",
+            "Type": "Folder",
+            "Content": [
+                {
+                    "Name": "PDFs",
+                    "Type": "Folder",
+                    "Content": [
+                        {
+                            "Name": "Letter of Intent to Capstone Adviser",
+                            "Type": "File",
+                            "Extension": ".pdf",
+                            "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Letters/PDFs/RED-LT-ADVISER.pdf"
+                        },
+                        {
+                            "Name": "Letter of Intent to School Principal",
+                            "Type": "File",
+                            "Extension": ".pdf",
+                            "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Letters/PDFs/RED-LT-INITIAL.pdf"
+                        },
+                        {
+                            "Name": "Pre-Interview Consent Form (28 February 2025)",
+                            "Type": "File",
+                            "Extension": ".pdf",
+                            "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Letters/PDFs/RED-LT-PICF-1.pdf"
+                        },
+                        {
+                            "Name": "Pre-Interview Consent Form (2 May 2025)",
+                            "Type": "File",
+                            "Extension": ".pdf",
+                            "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Letters/PDFs/RED-LT-PICF-2.pdf"
+                        },
+                        {
+                            "Name": "Client-Developer Agreement",
+                            "Type": "File",
+                            "Extension": ".pdf",
+                            "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Letters/PDFs/RED-LT-CDA.pdf"
+                        }
+                    ]
+                },
+                {
+                    "Name": "Scanned",
+                    "Type": "Folder",
+                    "Content": [
+                        {
+                            "Name": "Letter of Intent to Capstone Adviser",
+                            "Type": "File",
+                            "Extension": ".jpg",
+                            "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Letters/Scanned/RED-LT-S-ADVISER.jpg"
+                        },
+                        {
+                            "Name": "Letter of Intent to School Principal",
+                            "Type": "File",
+                            "Extension": ".jpg",
+                            "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Letters/Scanned/RED-LT-S-INITIAL.jpg"
+                        },
+                        {
+                            "Name": "Pre-Interview Consent Form (28 February 2025)",
+                            "Type": "File",
+                            "Extension": ".jpg",
+                            "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Letters/Scanned/RED-LT-S-PICF-1.jpg"
+                        },
+                        {
+                            "Name": "Pre-Interview Consent Form (2 May 2025)",
+                            "Type": "File",
+                            "Extension": ".jpg",
+                            "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Letters/Scanned/RED-LT-S-PICF-2.jpg"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Name": "Surveys",
+            "Type": "Folder",
+            "Content": [
+                {
+                    "Name": "Feasibility Study Survey Form",
+                    "Type": "File",
+                    "Extension": ".pdf",
+                    "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Surveys/RED-SV-FS-1.pdf"
                 }
             ]
         }
