@@ -60,12 +60,23 @@ function BOS_List_Generate(Item_Array){
 }
 
 function BOS_File_Load(Item_Index, Item_Name, Item_Extension){
+    console.log(Item_Extension);
     var Item = Directory_Content[Item_Index];
     var Item_Source = Item.Source;
-    Element_Attribute_Set("BOS_Explorer_Preview_Frame", "src", Item_Source);
-    var Frame = Element_Get_ByID("BOS_Explorer_Preview_Frame");
-    const Frame_Content = Frame.contentDocument || Frame.contentWindow.document;
-    console.log(Frame_Content);
+    if (Item_Extension != ".jpg" && Item_Extension != ".png"){
+        Element_Attribute_Set("BOS_Explorer_Preview_Frame", "Display", "block");
+        Element_Attribute_Set("BOS_Explorer_Preview_Image", "Display", "none");
+        Element_Attribute_Set("BOS_Explorer_Preview_Frame", "src", Item_Source);
+        var Frame = Element_Get_ByID("BOS_Explorer_Preview_Frame");
+        const Frame_Content = Frame.contentDocument || Frame.contentWindow.document;
+        console.log(Frame_Content);
+    } else {
+        Element_Attribute_Set("BOS_Explorer_Preview_Image", "src", "https://elmerf5445.github.io/Digi-Rooms-Status/Assets/Loading.png");
+        Element_Attribute_Set("BOS_Explorer_Preview_Frame", "Display", "none");
+        Element_Attribute_Set("BOS_Explorer_Preview_Image", "Display", "block");
+        Element_Attribute_Set("BOS_Explorer_Preview_Image", "src", Item_Source);
+    }
+    
 }
 
 function BOS_Explore_Down(Item_Name){
