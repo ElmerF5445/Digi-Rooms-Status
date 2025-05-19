@@ -18,6 +18,12 @@
                     "Type": "File",
                     "Extension": ".pdf",
                     "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Manuscripts/RED-MNS-C3S2-C2-D1.pdf"
+                },
+                {
+                    "Name": "Chapter II Draft 2 (19 May 2025)",
+                    "Type": "File",
+                    "Extension": ".pdf",
+                    "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Manuscripts/RED-MNS-C3S2-C2-D2.pdf"
                 }
             ]
         },
@@ -214,6 +220,18 @@
                             "Type": "File",
                             "Extension": ".jpg",
                             "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Journals/Scanned/RED-JN-S-Week-14.jpg"
+                        },
+                        {
+                            "Name": "Week 15",
+                            "Type": "File",
+                            "Extension": ".jpg",
+                            "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Journals/Scanned/RED-JN-S-Week-15.jpg"
+                        },
+                        {
+                            "Name": "Week 16",
+                            "Type": "File",
+                            "Extension": ".jpg",
+                            "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Journals/Scanned/RED-JN-S-Week-16.jpg"
                         }
                     ]
                 }
@@ -432,6 +450,90 @@
                     "Type": "File",
                     "Extension": ".pdf",
                     "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Surveys/RED-SV-FS-1.pdf"
+                }
+            ]
+        },
+        {
+            "Name": "Documentation",
+            "Type": "Folder",
+            "Content": [
+                {
+                    "Name": "PDFs",
+                    "Type": "Folder",
+                    "Content": [
+                        {
+                            "Name": "Requirements Definition Document",
+                            "Type": "File",
+                            "Extension": ".pdf",
+                            "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Documentation/PDFs/RED-RDD-C3S2-2.pdf"
+                        }
+                    ]
+                },
+                {
+                    "Name": "Scanned",
+                    "Type": "Folder",
+                    "Content": [
+                        {
+                            "Name": "Requirements Definition Document",
+                            "Type": "Folder",
+                            "Content": [
+                                {
+                                    "Name": "Page 1",
+                                    "Type": "File",
+                                    "Extension": ".jpg",
+                                    "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Documentation/Scaned/RED-RDD-S-1.jpg"
+                                },
+                                {
+                                    "Name": "Page 2",
+                                    "Type": "File",
+                                    "Extension": ".jpg",
+                                    "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Documentation/Scaned/RED-RDD-S-2.jpg"
+                                },
+                                {
+                                    "Name": "Page 3",
+                                    "Type": "File",
+                                    "Extension": ".jpg",
+                                    "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Documentation/Scaned/RED-RDD-S-3.jpg"
+                                },
+                                {
+                                    "Name": "Page 4",
+                                    "Type": "File",
+                                    "Extension": ".jpg",
+                                    "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Documentation/Scaned/RED-RDD-S-4.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "Handbook",
+                            "Type": "Folder",
+                            "Content": [
+                                {
+                                    "Name": "Practices",
+                                    "Type": "File",
+                                    "Extension": ".jpg",
+                                    "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Documentation/Scaned/RED-HB-S-1.jpg"
+                                },
+                                {
+                                    "Name": "In Campus Activities",
+                                    "Type": "File",
+                                    "Extension": ".jpg",
+                                    "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Documentation/Scaned/RED-HB-S-2.jpg"
+                                },
+                                {
+                                    "Name": "Pull Out Pass",
+                                    "Type": "File",
+                                    "Extension": ".jpg",
+                                    "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Documentation/Scaned/RED-HB-S-3.jpg"
+                                },
+                                {
+                                    "Name": "Recognized Organizations",
+                                    "Type": "File",
+                                    "Extension": ".jpg",
+                                    "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Documentation/Scaned/RED-HB-S-4.jpg"
+                                }
+                            ]
+                        }
+                    ]
                 }
             ]
         }
