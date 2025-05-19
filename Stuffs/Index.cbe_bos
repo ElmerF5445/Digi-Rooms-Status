@@ -532,7 +532,116 @@
                                     "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Documentation/Scanned/RED-HB-S-4.jpg"
                                 }
                             ]
+                        },
+                        {
+                            "Name": "Old Forms",
+                            "Type": "Folder",
+                            "Content": [
+                                {
+                                    "Name": "Room Reservation Form",
+                                    "Type": "File",
+                                    "Extension": ".jpg",
+                                    "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Documentation/Scanned/RED-RF-S-1.jpg"
+                                },
+                                {
+                                    "Name": "Equipment Requisition Form",
+                                    "Type": "File",
+                                    "Extension": ".jpg",
+                                    "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Documentation/Scanned/RED-RF-S-2.jpg"
+                                }
+                            ]
                         }
+                    ]
+                },
+                {
+                    "Name": "Images",
+                    "Type": "Folder",
+                    "Content": [
+                        {
+                            "Name": "Interviews",
+                            "Type": "Folder",
+                            "Content": [
+                                {
+                                    "Name": "February 28, 2025",
+                                    "Type": "File",
+                                    "Extension": ".png",
+                                    "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Documentation/Images/RED-DC-I-IV-1.png"
+                                },
+                                {
+                                    "Name": "May 2, 2025",
+                                    "Type": "File",
+                                    "Extension": ".png",
+                                    "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Documentation/Images/RED-DC-I-IV-2.png"
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "Permits",
+                            "Type": "Folder",
+                            "Content": [
+                                {
+                                    "Name": "SEC Certificate",
+                                    "Type": "File",
+                                    "Extension": ".png",
+                                    "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Documentation/Images/RED-DC-I-P-SEC.png"
+                                },
+                                {
+                                    "Name": "BIR Certificate",
+                                    "Type": "File",
+                                    "Extension": ".png",
+                                    "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Documentation/Images/RED-DC-I-P-BIR.png"
+                                },
+                                {
+                                    "Name": "Municipal Business Permit",
+                                    "Type": "File",
+                                    "Extension": ".png",
+                                    "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Documentation/Images/RED-DC-I-P-MBP.png"
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "Floor Plans",
+                            "Type": "Folder",
+                            "Content": [
+                                {
+                                    "Name": "Main Building, Floor 1",
+                                    "Type": "File",
+                                    "Extension": ".png",
+                                    "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Documentation/Images/RED-DC-I-FP-MB-1.png"
+                                },
+                                {
+                                    "Name": "Main Building, Floor 2",
+                                    "Type": "File",
+                                    "Extension": ".png",
+                                    "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Documentation/Images/RED-DC-I-FP-MB-2.png"
+                                },
+                                {
+                                    "Name": "Main Building, Floor 3",
+                                    "Type": "File",
+                                    "Extension": ".png",
+                                    "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Documentation/Images/RED-DC-I-FP-MB-3.png"
+                                },
+                                {
+                                    "Name": "Main Building, Floor 4",
+                                    "Type": "File",
+                                    "Extension": ".png",
+                                    "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Documentation/Images/RED-DC-I-FP-MB-4.png"
+                                },
+                                {
+                                    "Name": "Annex Building",
+                                    "Type": "File",
+                                    "Extension": ".png",
+                                    "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Documentation/Images/RED-DC-I-FP-AB.png"
+                                }
+                            ]
+                        },
+                        {
+                            "Name": "Calendar of Room and Equipment Reservations",
+                            "Type": "File",
+                            "Extension": ".png",
+                            "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Documentation/Images/RED-DC-I-CD.png"
+                        }
+                        
                     ]
                 }
             ]
