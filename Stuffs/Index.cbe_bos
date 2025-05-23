@@ -354,6 +354,12 @@
                     "Type": "File",
                     "Extension": ".pdf",
                     "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Revisions/RED-RL-15-April-2025.pdf"
+                },
+                {
+                    "Name": "May 23, 2025",
+                    "Type": "File",
+                    "Extension": ".pdf",
+                    "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Revisions/RED-RL-C3S2.pdf"
                 }
             ]
         },
