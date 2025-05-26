@@ -130,6 +130,18 @@
                             "Type": "File",
                             "Extension": ".pdf",
                             "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Journals/PDFs/RED-JN-Week-16.pdf"
+                        },
+                        {
+                            "Name": "Week 17",
+                            "Type": "File",
+                            "Extension": ".pdf",
+                            "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Journals/PDFs/RED-JN-Week-17.pdf"
+                        },
+                        {
+                            "Name": "Week 18",
+                            "Type": "File",
+                            "Extension": ".pdf",
+                            "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Journals/PDFs/RED-JN-Week-18.pdf"
                         }
                     ]
                 },
