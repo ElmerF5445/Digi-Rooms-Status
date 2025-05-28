@@ -244,6 +244,18 @@
                             "Type": "File",
                             "Extension": ".jpg",
                             "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Journals/Scanned/RED-JN-S-Week-16.jpg"
+                        },
+                        {
+                            "Name": "Week 17",
+                            "Type": "File",
+                            "Extension": ".jpg",
+                            "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Journals/Scanned/RED-JN-S-Week-17.jpg"
+                        },
+                        {
+                            "Name": "Week 18",
+                            "Type": "File",
+                            "Extension": ".jpg",
+                            "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Journals/Scanned/RED-JN-S-Week-18.jpg"
                         }
                     ]
                 }
