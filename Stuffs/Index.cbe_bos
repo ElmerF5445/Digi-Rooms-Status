@@ -24,6 +24,12 @@
                     "Type": "File",
                     "Extension": ".pdf",
                     "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Manuscripts/RED-MNS-C3S2-C2-D2.pdf"
+                },
+                {
+                    "Name": "Final (1 June 2025)",
+                    "Type": "File",
+                    "Extension": ".pdf",
+                    "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Manuscripts/RED-MNS-C3S2-C2-D3.pdf"
                 }
             ]
         },
@@ -142,7 +148,20 @@
                             "Type": "File",
                             "Extension": ".pdf",
                             "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Journals/PDFs/RED-JN-Week-18.pdf"
+                        },
+                        {
+                            "Name": "Week 19",
+                            "Type": "File",
+                            "Extension": ".pdf",
+                            "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Journals/PDFs/RED-JN-Week-19.pdf"
+                        },
+                        {
+                            "Name": "Week 20",
+                            "Type": "File",
+                            "Extension": ".pdf",
+                            "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Journals/PDFs/RED-JN-Week-20.pdf"
                         }
+                        
                     ]
                 },
                 {
@@ -384,6 +403,12 @@
                     "Type": "File",
                     "Extension": ".pdf",
                     "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Revisions/RED-RL-C3S2.pdf"
+                },
+                {
+                    "Name": "June 1, 2025",
+                    "Type": "File",
+                    "Extension": ".pdf",
+                    "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Revisions/RED-RL-C3S2-Signed.pdf"
                 }
             ]
         },
