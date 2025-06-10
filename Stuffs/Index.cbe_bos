@@ -409,6 +409,12 @@
                     "Type": "File",
                     "Extension": ".pdf",
                     "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Revisions/RED-RL-C3S2-Signed.pdf"
+                },
+                {
+                    "Name": "June 10, 2025",
+                    "Type": "File",
+                    "Extension": ".pdf",
+                    "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Revisions/RED-RL-C3S2-V3.pdf"
                 }
             ]
         },
@@ -547,6 +553,54 @@
                     "Type": "File",
                     "Extension": ".pdf",
                     "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Surveys/RED-SV-FS-1.pdf"
+                },
+                {
+                    "Name": "Evaluation Forms",
+                    "Type": "Folder",
+                    "Content": [
+                        {
+                            "Name": "Templates",
+                            "Type": "Folder",
+                            "Content": [
+                                {
+                                    "Name": "User side",
+                                    "Type": "Folder",
+                                    "Content": [
+                                        {
+                                            "Name": "Usability Test",
+                                            "Type": "File",
+                                            "Extension": ".pdf",
+                                            "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Surveys/Evaluation_Forms/Templates/User/TEMP-RED-UT-C3S2.pdf"
+                                        },
+                                        {
+                                            "Name": "User Acceptance Test",
+                                            "Type": "File",
+                                            "Extension": ".pdf",
+                                            "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Surveys/Evaluation_Forms/Templates/User/TEMP-RED-UAT-C3S2.pdf"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "Name": "Developer side",
+                                    "Type": "Folder",
+                                    "Content": [
+                                        {
+                                            "Name": "Functionality Test",
+                                            "Type": "File",
+                                            "Extension": ".pdf",
+                                            "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Surveys/Evaluation_Forms/Templates/Developer/TEMP-RED-FT-C3S2.pdf"
+                                        },
+                                        {
+                                            "Name": "Role Based Access Test",
+                                            "Type": "File",
+                                            "Extension": ".pdf",
+                                            "Source": "https://elmerf5445.github.io/Digi-Rooms-Status/Stuffs/Surveys/Evaluation_Forms/Templates/User/TEMP-RED-RBAT-C3S2.pdf"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
                 }
             ]
         },
