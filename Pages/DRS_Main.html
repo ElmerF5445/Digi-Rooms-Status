@@ -135,6 +135,27 @@
 				</div>
 			</div>
 		</div>
+        <div class="Modal" id="BOS_Download_Confirm">
+			<div class="Modal_TitleBar">
+				<h2 class="Modal_TitleBar_Title">
+					Download file
+				</h2>
+			</div>
+			<div class="Modal_Content">
+				<p class="General_Paragraph">
+					Enter password.
+				</p>
+                <input type="password" class="Input_Text" id="BOS_Download_Confirm_Input" placeholder="Password"/>
+			</div>
+			<div class="Modal_Content_Bottom">
+				<div class="Subwindow_Bottom_Button_SecondaryAction" onclick="Subwindows_Close('BOS_Download_Confirm')">
+					Cancel
+				</div>
+				<div class="Subwindow_Bottom_Button_PrimaryAction" onclick="BOS_File_Download()" id="BOS_Download_Confirm_Button">
+					Enter
+				</div>
+			</div>
+		</div>
         <div class="Subwindow Projects" id="Projects_List_Window">
             <div class="Subwindow_TitleBar">
                 <h2 class="Subwindow_TitleBar_Title">
@@ -489,12 +510,20 @@
 		</div>
     </header>
     <div class="Tabs_Vertical_Container_Selector Sidebar" id="Sidebar" State="Collapsed" Style_Margin_Header="Enabled">
-        <div class="Tabs_Vertical_Container_Selector_Item" id="TabIDHere" onclick="Tabs_ChangeTab(this.id, 'Vertical')" Tabs_Tab_Title="ERUMA UI Elements" Tabs_Tab_Target_Container="Content" Tabs_Tab_Target_Tab="tab_TabIDHere" Tabs_UseRibbon="true" Tabs_Tab_Target_Ribbon="Ribbon_TabIDHere" Tabs_UseHeaderTitle="true" State="Selected" Tabs_UseFullContainer="false">
+        <div class="Tabs_Vertical_Container_Selector_Item" id="TabID3Here" onclick="Tabs_ChangeTab(this.id, 'Vertical')" Tabs_Tab_Title="ERUMA UI Elements" Tabs_Tab_Target_Container="Content" Tabs_Tab_Target_Tab="tab_Home" Tabs_UseRibbon="true" Tabs_Tab_Target_Ribbon="Ribbon_TabIDHere" Tabs_UseHeaderTitle="true" State="Selected" Tabs_UseFullContainer="true">
 			<div class="Tabs_Vertical_Container_Selector_Item_Icon">
 				<img src="Assets/Icons/icon_home.png" class="Tabs_Vertical_Container_Selector_Item_Icon_Icon"/>
 			</div>
 			<p class="Tabs_Vertical_Container_Selector_Item_Text">
-				Home page
+				Home
+			</p>
+		</div>
+        <div class="Tabs_Vertical_Container_Selector_Item" id="TabIDHere" onclick="Tabs_ChangeTab(this.id, 'Vertical')" Tabs_Tab_Title="ERUMA UI Elements" Tabs_Tab_Target_Container="Content" Tabs_Tab_Target_Tab="tab_TabIDHere" Tabs_UseRibbon="true" Tabs_Tab_Target_Ribbon="Ribbon_TabIDHere" Tabs_UseHeaderTitle="true" State="Selected" Tabs_UseFullContainer="false">
+			<div class="Tabs_Vertical_Container_Selector_Item_Icon">
+				<img src="Assets/Icons/iconNew_link.png" class="Tabs_Vertical_Container_Selector_Item_Icon_Icon"/>
+			</div>
+			<p class="Tabs_Vertical_Container_Selector_Item_Text">
+				Links
 			</p>
 		</div>
 		<!-- <div class="Tabs_Vertical_Container_Selector_Item" id="TabIDHere2" onclick="Tabs_ChangeTab(this.id, 'Vertical')" Tabs_Tab_Title="Tab 2" Tabs_Tab_Target_Container="Content" Tabs_Tab_Target_Tab="tab_TabIDHere2" Tabs_UseRibbon="true" Tabs_Tab_Target_Ribbon="Ribbon_TabIDHere2" Tabs_UseHeaderTitle="true" Tabs_UseFullContainer="false">
@@ -519,6 +548,45 @@
         <div class="MainContent_Container_Pusher" id="MainContent_Container_Pusher"></div>
         <main class="MainContent" id="MainContent" Style_Margin_Header="Enabled" Style_Margin_Ribbon="Enabled" Style_Margin_Sidebar="Enabled">
             <div class="Content" id="Content" Style_Margin="Enabled" Tabs_CurrentTab="">
+                <div class="Tab_Container_Content_Item Content_Item" id="tab_Home">
+                    <div class="DRS_Home">
+                        <div class="DRS_Home_Content">
+                            <h1 class="General_Title">
+                                NSDAPS Digi-Rooms
+                            </h1>
+                            <button class="General_Button" Primary>
+                                Prototype site
+                            </button>
+                            <h3 class="General_Paragraph">
+                                Developer evaluation forms
+                            </h3>
+                            <button class="General_Button">
+                                Functionality Testing
+                            </button>
+                            <button class="General_Button">
+                                Role-Based Access Testing
+                            </button>
+                            <h3 class="General_Paragraph">
+                                Client evaluation forms
+                            </h3>
+                            <button class="General_Button">
+                                Usability Testing
+                            </button>
+                            <button class="General_Button">
+                                User Acceptance Testing
+                            </button>
+                            <h3 class="General_Paragraph">
+                                Current prototype version
+                            </h3>
+                            <h2 class="General_Title">
+                                DR-PT-A (1.0)
+                            </h2>
+                        </div>
+                        <div class="DRS_Home_Banner">
+                            <img class="DRS_Home_Banner_Image" src="Assets/Images/NSDAPS_Main_Facade.png" loading="lazy" draggable="false"/>
+                        </div>
+                    </div>
+                </div>
                 <div class="Tab_Container_Content_Item Content_Item" id="tab_TabIDHere" State="Active">
                     <h1 class="General_Title">
                         Digi-Rooms: Web-Based School Facility Reservation and Management System for Nuestra Señora De Aranzazu Parochial School
@@ -632,6 +700,11 @@
                             <h1 class="BOS_Explorer_Header_Title" id="BOS_Explorer_Header_Title">
                                 Stuffs
                             </h1>
+                            <div class="BOS_Explorer_Header_Toolbar">
+                                <button class="General_Button" onclick="Subwindows_Open('BOS_Download_Confirm')">
+                                    Download file
+                                </button>
+                            </div>
                         </div>
                         <div class="BOS_Explorer_List" id="BOS_Explorer_List">
                             <button class="General_Button BOS_Explorer_List_Item">

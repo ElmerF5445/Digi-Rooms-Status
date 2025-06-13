@@ -5,7 +5,7 @@
         "Header Header"
         "List Preview"
     ;
-    grid-template-rows: 50px 75px 1fr;
+    grid-template-rows: 50px 80px 1fr;
     grid-template-columns: 450px 1fr;
     background-color: var(--BG-Color-Opacitated);
     width: calc(100% - 50px);
@@ -40,7 +40,8 @@
     background-color: var(--BG-Color-Overlay-Header);
     grid-area: Header;
     border-bottom: solid var(--Color-Borders) 3px;
-    display: flex;
+    display: grid;
+    grid-template-rows: 1fr auto;
     align-items: center;
     padding: 10px;
 }
@@ -49,6 +50,15 @@
     font-family: var(--Text-Font-Primary);
     color: var(--Text-Color);
     margin: 0;
+}
+
+.BOS_Explorer_Header > .BOS_Explorer_Header_Toolbar > .General_Button{
+    border: unset;
+    padding: 0;
+}
+
+.BOS_Explorer_Header > .BOS_Explorer_Header_Toolbar > .General_Button:hover{
+    text-decoration: underline;
 }
 
 .BOS_Explorer_List{
@@ -101,4 +111,24 @@
     height: 100%;
     object-fit: contain;
     position: absolute;
+    pointer-events: none;
+}
+
+@media only screen and (max-width: 700px){
+    .BOS_Explorer{
+        margin-left: 0px;
+        grid-template-areas: 
+            "Breadcrumbs"
+            "Header"
+            "Preview"
+            "List"
+        ;
+        grid-template-rows: 50px 75px 1fr 1fr;
+        grid-template-columns: 1fr;
+        width: 100%;
+        height: calc(100% - 60px);
+    }
+    .BOS_Explorer_Header_Title, .BOS_Explorer_List_Item_Title{
+        font-size: 20px;
+    }
 }

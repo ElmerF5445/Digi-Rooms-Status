@@ -66,7 +66,7 @@ function BOS_File_Load(Item_Index, Item_Name, Item_Extension){
     if (Item_Extension != ".jpg" && Item_Extension != ".png"){
         Element_Attribute_Set("BOS_Explorer_Preview_Frame", "Display", "block");
         Element_Attribute_Set("BOS_Explorer_Preview_Image", "Display", "none");
-        Element_Attribute_Set("BOS_Explorer_Preview_Frame", "src", Item_Source);
+        Element_Attribute_Set("BOS_Explorer_Preview_Frame", "src", `${Item_Source}#toolbar=0`);
         var Frame = Element_Get_ByID("BOS_Explorer_Preview_Frame");
         const Frame_Content = Frame.contentDocument || Frame.contentWindow.document;
         console.log(Frame_Content);
@@ -76,7 +76,34 @@ function BOS_File_Load(Item_Index, Item_Name, Item_Extension){
         Element_Attribute_Set("BOS_Explorer_Preview_Image", "Display", "block");
         Element_Attribute_Set("BOS_Explorer_Preview_Image", "src", Item_Source);
     }
+    Element_Attribute_Set("BOS_Download_Confirm_Button", "Link", Item_Source);
     
+}
+
+function BOS_File_Download(){
+    if (document.getElementById('BOS_Download_Confirm_Input').value == "RED_File_DL_C3S2"){
+        // Create a temporary anchor element
+        const link = document.createElement('a');
+
+        // Set the href to the PDF URL
+        link.href = Element_Attribute_Get("BOS_Download_Confirm_Button", "Link");
+
+        // Set the download attribute to suggest a filename
+        link.download = 'MyDocument.pdf'; // You can change this to any desired filename
+
+        // Append the link to the document body (it doesn't need to be visible)
+        document.body.appendChild(link);
+
+        // Programmatically click the link to trigger the download
+        link.click();
+
+        // Remove the link after a short delay (important for cleanup)
+        // A small delay helps ensure the click event is processed by the browser
+        setTimeout(() => {
+            document.body.removeChild(link);
+            // Element_Attribute_Set("BOS_Download_Confirm_Button", "Link", null);
+        }, 100);
+    }
 }
 
 function BOS_Explore_Down(Item_Name){

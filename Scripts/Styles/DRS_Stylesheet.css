@@ -12,3 +12,55 @@ iframe{
 .Accordion_Content{
     padding-bottom: 50px;
 }
+
+#tab_Home{
+    height: 100%;
+    padding-bottom: 0px;
+}
+
+.DRS_Home{
+    display: grid;
+    grid-template-columns: 500px 1fr;
+    height: 100%;
+    
+}
+
+.DRS_Home_Content{
+    background-color: var(--BG-Color-Overlay-Sidebar);
+    padding-left: calc(var(--Sidebar-Width-Collapsed) + 30px);
+    padding-right: 20px;
+    border-right: solid var(--Color-Borders) 3px;
+}
+
+.DRS_Home_Content > .General_Button{
+    width: -webkit-fill-available;
+    margin-bottom: 10px;
+}
+
+.DRS_Home_Banner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+.DRS_Home_Banner_Image{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+@media only screen and (max-width: 700px){
+    .DRS_Home{
+        display: grid;
+        grid-template-columns: 1fr;
+        height: 100%;
+    }    
+    .DRS_Home_Content{
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .DRS_Home_Banner{
+        display: none;
+    }
+}
