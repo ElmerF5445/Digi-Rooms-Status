@@ -1,0 +1,52 @@
+{
+  "Metadata": {
+    "Article_Banner": "",
+    "Article_Title": "Development Log",
+    "Article_Title_Height": "122px",
+    "Article_Author": "Elmer Felisilda",
+    "Article_Category": "",
+    "Article_PublishingDate": "9 June 2025"
+  },
+  "Contents": [
+    {
+      "Type": "Primary_Title",
+      "Content": "Week 21 (June 9 - 14)"
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "June 9",
+      "Content": "Began the development with the creation of the client and server folder.\nSet up the development environment.\nCreated the log in and register screen."
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "June 11",
+      "Content": "Created online versions of the functionality and role-based access testing forms.\nCreated the issue tracker for developer testing."
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "June 14",
+      "Content": "Began creating the user interface components for the main screen."
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/x5mnW84.png",
+      "Description": "Log in screen",
+      "Credits": ""
+    },
+    {
+      "Type": "Primary_Title",
+      "Content": "Week 22 (June 16 - 21)"
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "June 16",
+      "Content": "Added elements in the sidebar/NavigationRail for the different screens for the program.\nAdded a working navigation system that switches \"slides\" to change screens to different modules."
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/6YqO5RN.png",
+      "Description": "WIP main screen",
+      "Credits": ""
+    }
+  ]
+}

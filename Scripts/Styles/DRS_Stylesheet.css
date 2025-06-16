@@ -50,6 +50,23 @@ iframe{
     object-fit: cover;
 }
 
+.DRS_DevLog{
+    background-color: var(--BG-Color-Overlay-Sidebar);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.DRS_DevLog > .General_Title{
+    width: 100%;
+    text-align: center;
+}
+
+.DRS_DevLog > .AB_Renderer_Contents{
+    width: -webkit-fill-available !important;
+}
+
 @media only screen and (max-width: 700px){
     .DRS_Home{
         display: grid;

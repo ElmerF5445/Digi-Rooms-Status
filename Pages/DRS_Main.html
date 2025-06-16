@@ -22,6 +22,8 @@
     <script src="Scripts/Javascript/App_Javascript_Projects.js" defer></script>
     <script src="Scripts/Javascript/ERUMAUI_Javascript_Settings.js" defer></script>
     <script src="Scripts/Javascript/BOS_Javascript.js" defer></script>
+    <script src="Scripts/Javascript/AB_Javascript_Renderer.js" defer></script>
+    <script src="Scripts/Javascript/DRS_Javascript.js" defer></script>
     <div class="LoadingScreen" id="LoadingScreen">
         <div class="LoadingScreen_Simple" id="LoadingScreen_Simple" Display="none">
             <div class="LoadingScreen_Simple_Main">
@@ -518,6 +520,14 @@
 				Home
 			</p>
 		</div>
+        <div class="Tabs_Vertical_Container_Selector_Item" id="TabID4Here" onclick="Tabs_ChangeTab(this.id, 'Vertical')" Tabs_Tab_Title="ERUMA UI Elements" Tabs_Tab_Target_Container="Content" Tabs_Tab_Target_Tab="tab_Devlog" Tabs_UseRibbon="true" Tabs_Tab_Target_Ribbon="Ribbon_TabIDHere" Tabs_UseHeaderTitle="true" State="Selected" Tabs_UseFullContainer="false">
+			<div class="Tabs_Vertical_Container_Selector_Item_Icon">
+				<img src="Assets/Icons/icon_lms.png" class="Tabs_Vertical_Container_Selector_Item_Icon_Icon"/>
+			</div>
+			<p class="Tabs_Vertical_Container_Selector_Item_Text">
+				Development Log
+			</p>
+		</div>
         <div class="Tabs_Vertical_Container_Selector_Item" id="TabIDHere" onclick="Tabs_ChangeTab(this.id, 'Vertical')" Tabs_Tab_Title="ERUMA UI Elements" Tabs_Tab_Target_Container="Content" Tabs_Tab_Target_Tab="tab_TabIDHere" Tabs_UseRibbon="true" Tabs_Tab_Target_Ribbon="Ribbon_TabIDHere" Tabs_UseHeaderTitle="true" State="Selected" Tabs_UseFullContainer="false">
 			<div class="Tabs_Vertical_Container_Selector_Item_Icon">
 				<img src="Assets/Icons/iconNew_link.png" class="Tabs_Vertical_Container_Selector_Item_Icon_Icon"/>
@@ -526,6 +536,7 @@
 				Links
 			</p>
 		</div>
+        
 		<!-- <div class="Tabs_Vertical_Container_Selector_Item" id="TabIDHere2" onclick="Tabs_ChangeTab(this.id, 'Vertical')" Tabs_Tab_Title="Tab 2" Tabs_Tab_Target_Container="Content" Tabs_Tab_Target_Tab="tab_TabIDHere2" Tabs_UseRibbon="true" Tabs_Tab_Target_Ribbon="Ribbon_TabIDHere2" Tabs_UseHeaderTitle="true" Tabs_UseFullContainer="false">
 			<div class="Tabs_Vertical_Container_Selector_Item_Icon">
 				<img src="Assets/Icons/placeholder.png" class="Tabs_Vertical_Container_Selector_Item_Icon_Icon"/>
@@ -586,6 +597,17 @@
                             <img class="DRS_Home_Banner_Image" src="Assets/Images/NSDAPS_Main_Facade.png" loading="lazy" draggable="false"/>
                         </div>
                     </div>
+                </div>
+                <div class="Tab_Container_Content_Item Content_Item" id="tab_Devlog">
+                    <div class="DRS_DevLog">
+                        <h1 class="General_Title">
+                            Development Log
+                        </h1>
+                        <div class="AB_Renderer_Contents" id="AB_Renderer_Contents">
+                        
+                        </div>
+                    </div>
+                    
                 </div>
                 <div class="Tab_Container_Content_Item Content_Item" id="tab_TabIDHere" State="Active">
                     <h1 class="General_Title">
