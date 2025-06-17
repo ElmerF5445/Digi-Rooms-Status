@@ -47,6 +47,17 @@
       "Source": "https://i.imgur.com/6YqO5RN.png",
       "Description": "WIP main screen",
       "Credits": ""
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "June 17",
+      "Content": "Sidebar/NavigationRail and their associated panels are now rendered dependent of the account's permissions.\nAccounts Management screen now fetches accounts with pending or approved statuses."
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/iA9bC7o.png",
+      "Description": "WIP Accounts Management screen",
+      "Credits": ""
     }
   ]
 }
