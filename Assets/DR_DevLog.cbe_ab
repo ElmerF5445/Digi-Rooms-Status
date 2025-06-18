@@ -58,6 +58,17 @@
       "Source": "https://i.imgur.com/iA9bC7o.png",
       "Description": "WIP Accounts Management screen",
       "Credits": ""
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "June 18",
+      "Content": "Account permissions can now be viewed from the right sidebar."
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/NHP4nBw.png",
+      "Description": "WIP Accounts Management Screen",
+      "Credits": ""
     }
   ]
 }
