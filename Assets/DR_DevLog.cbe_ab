@@ -69,6 +69,57 @@
       "Source": "https://i.imgur.com/NHP4nBw.png",
       "Description": "WIP Accounts Management Screen",
       "Credits": ""
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "June 19",
+      "Content": "Changes to the permissions of the selected account can now be saved.\nAccounts list refreshes whenever changes are made to the selected account."
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "June 20",
+      "Content": "Added the Deactivate functionality to the Accounts Management module. This is equivalent to barring the account from accessing the site without deleting the actual account data. This prevents possible errors in other modules that require account data as part of its information. Deactivated accounts can be reactivated at any time.\nRejected accounts can be reinstated to return to the Pending Approval state, or can be deleted entirely from the database.\nPermission roles had been added to automatically set the permissions of accounts based on the Access Role Table from the research paper. Changing individual permissions will automatically set the role as Custom."
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/pw2l0P7.png",
+      "Description": "WIP Accounts Management Screen with updated controls",
+      "Credits": ""
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/WJb8zQ6.png",
+      "Description": "WIP Accounts Management Screen with updated controls",
+      "Credits": ""
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/sAcKfBI.png",
+      "Description": "WIP Accounts Management Screen with updated controls",
+      "Credits": ""
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "June 21",
+      "Content": "Updated log in and registration UI to provide visual feedback for successful/failed actions.\nA new email address had been created for the system (nsdaps.service.digirooms@gmail.com). This will be used for email notifications, hosting, and other operations moving forward. \nEmail notifications are now sent when changes to the user's account had been made (e.g., approved/rejected account requests, deactivation, reinstation, reactivation, etc.)"
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/f84DD9Y.png",
+      "Description": "Registration screen when the account registration request process succeeds",
+      "Credits": ""
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/ksYasAp.jpeg",
+      "Description": "Log in screen with an error message when logging in fails",
+      "Credits": ""
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/HzAB7tY.png",
+      "Description": "WIP email notification sent by the system through the nsdaps.service.digirooms@gmail.com address",
+      "Credits": ""
     }
   ]
 }
