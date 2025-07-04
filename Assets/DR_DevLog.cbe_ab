@@ -13,6 +13,10 @@
       "Content": "Week 21 (June 9 - 14)"
     },
     {
+      "Type": "Primary_Title",
+      "Content": ""
+    },
+    {
       "Type": "Bulleted_List",
       "Header": "June 9",
       "Content": "Began the development with the creation of the client and server folder.\nSet up the development environment.\nCreated the log in and register screen."
@@ -120,6 +124,49 @@
       "Source": "https://i.imgur.com/HzAB7tY.png",
       "Description": "WIP email notification sent by the system through the nsdaps.service.digirooms@gmail.com address",
       "Credits": ""
+    },
+    {
+      "Type": "Primary_Title",
+      "Content": "Week 23 (June 23 - 28)"
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "June 23",
+      "Content": "Reconstructed the UI system."
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "June 26",
+      "Content": "Created Render, MongoDB Atlas, and Netlify accounts under the email nsdaps.services.digirooms@gmail.com.\nGitHub repositories for the system where the aforementioned services will pull code from had been created under the email elmerjrgfelisilda@gmail.com."
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "June 27",
+      "Content": "Errors on the UI when loading had been fixed.\nRender, MongoDB Atlas, and Netlify connections had been created."
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "June 28",
+      "Content": "UI Components are slowly being transferred to React's component-based structure."
+    },
+    {
+      "Type": "Primary_Title",
+      "Content": "Week 24 (June 30 - July 5)"
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "June 30",
+      "Content": "First attempts at deploying the system with the functional Accounts Management module had been made."
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "July 1",
+      "Content": "The system had been deployed at https://nsdaps-digirooms.netlify.app."
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "July 4",
+      "Content": "Errors regarding the redirects in the page had been fixed.\nErrors regarding the data pointing to the wrong database had been fixed.\nAdded indicators in the log in screen when the system is attempting to contact the backend server (the Render server powers down after 15 minutes of inactivity and takes up to a minute to start up when a request is received)."
     }
   ]
 }
