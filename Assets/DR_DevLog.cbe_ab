@@ -13,10 +13,6 @@
       "Content": "Week 21 (June 9 - 14)"
     },
     {
-      "Type": "Primary_Title",
-      "Content": ""
-    },
-    {
       "Type": "Bulleted_List",
       "Header": "June 9",
       "Content": "Began the development with the creation of the client and server folder.\nSet up the development environment.\nCreated the log in and register screen."
@@ -167,6 +163,51 @@
       "Type": "Bulleted_List",
       "Header": "July 4",
       "Content": "Errors regarding the redirects in the page had been fixed.\nErrors regarding the data pointing to the wrong database had been fixed.\nAdded indicators in the log in screen when the system is attempting to contact the backend server (the Render server powers down after 15 minutes of inactivity and takes up to a minute to start up when a request is received)."
+    },
+    {
+      "Type": "Primary_Title",
+      "Content": "Week 25 (July 7 - 12)"
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "July 7",
+      "Content": "Approved accounts now display their set role rather than their account status."
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/R2oDu2R.png",
+      "Description": "",
+      "Credits": ""
+    },
+    {
+      "Type": "Primary_Title",
+      "Content": "Week 26 (July 14 - 19)"
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "July 14",
+      "Content": "Created the .svg format floor plan maps based on available resources. This serves as the map for the Interactive Map and Map Editor modules."
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/izVNMu7.png",
+      "Description": "",
+      "Credits": ""
+    },
+    {
+      "Type": "Primary_Title",
+      "Content": "Week 27 (July 21 - 26)"
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "July 21",
+      "Content": "Improvements had been made to the UI system.\nBegan work on the Map Editor module."
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/ETZcFHV.png",
+      "Description": "WIP Map Editor screen",
+      "Credits": ""
     }
   ]
 }
