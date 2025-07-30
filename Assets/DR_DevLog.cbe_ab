@@ -208,6 +208,21 @@
       "Source": "https://i.imgur.com/ETZcFHV.png",
       "Description": "WIP Map Editor screen",
       "Credits": ""
+    },
+    {
+      "Type": "Primary_Title",
+      "Content": "Week 1 | 28 (July 28 - August 2)"
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "June 30",
+      "Content": "Currently selected account on the list in Accounts Management is now highlighted.\nFixed the displayed data not being updated when changes are made in Accounts Management."
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/PV2CvyJ.png",
+      "Description": "",
+      "Credits": ""
     }
   ]
 }
