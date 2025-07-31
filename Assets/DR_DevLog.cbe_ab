@@ -221,7 +221,18 @@
     {
       "Type": "Image",
       "Source": "https://i.imgur.com/PV2CvyJ.png",
-      "Description": "",
+      "Description": "Updated Accounts Management UI",
+      "Credits": ""
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "June 31",
+      "Content": "Map switching, zooming, and moving in Map Editor is now functional."
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/5MN6QwN.png",
+      "Description": "WIP Map Editor screen with functioning map display",
       "Credits": ""
     }
   ]
