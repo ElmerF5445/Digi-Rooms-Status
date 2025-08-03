@@ -234,6 +234,17 @@
       "Source": "https://i.imgur.com/5MN6QwN.png",
       "Description": "WIP Map Editor screen with functioning map display",
       "Credits": ""
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "August 1",
+      "Content": "Added pop-up box for signing out."
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/UI0J3kn.png",
+      "Description": "",
+      "Credits": ""
     }
   ]
 }
