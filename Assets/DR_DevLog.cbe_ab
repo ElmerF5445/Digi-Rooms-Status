@@ -245,6 +245,60 @@
       "Source": "https://i.imgur.com/UI0J3kn.png",
       "Description": "",
       "Credits": ""
+    },
+    {
+      "Type": "Primary_Title",
+      "Content": "Week 2 | 29 (August 4 - 9)"
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "August 4",
+      "Content": "Added the Add Building & Floor window with functional add functions."
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/MWL5tj5.png",
+      "Description": "",
+      "Credits": ""
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/ISuRwjx.png",
+      "Description": "WIP Map Editor subwindows",
+      "Credits": ""
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "August 5",
+      "Content": "Updated Account database schema to include a flag whether an account is the System Admin, which prevents any modification to its permissions. This is visible on accounts who has access to the Accounts Management module."
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/lbMN4zJ.png",
+      "Description": "Accounts flagged as a System Admin prevents other accounts (and itself) to modify its permissions",
+      "Credits": ""
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "August 6",
+      "Content": "Update Account database schema to include Templating (View & Edit) permissions for viewing the System Templating module and edit template values. Corresponding switches had been added on accounts who has access to the Accounts Management module.\nThe accounts list and account view panels will now disable input and button clicks when an action (such as saving updated permissions) is currently happening.\nThe log in and register forms will now disable input and button clicks when an action (such as sending account registration requests) is currently happening."
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/0eq2gsv.png",
+      "Description": "Additional Templating permission switches added on the account view panel",
+      "Credits": ""
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "August 7",
+      "Content": "Temporarily paused work on Map Editor and Interactive Map modules to create the System Templating module. This is an additional module that handles the values populated on form dropdowns.\nAdded corresponding server and client handlers for Templating requests and updates."
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/DILbSFw.png",
+      "Description": "WIP System Templating module screen with inline editing",
+      "Credits": ""
     }
   ]
 }
