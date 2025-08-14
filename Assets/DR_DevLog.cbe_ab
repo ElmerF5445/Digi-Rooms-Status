@@ -299,6 +299,100 @@
       "Source": "https://i.imgur.com/DILbSFw.png",
       "Description": "WIP System Templating module screen with inline editing",
       "Credits": ""
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "August 8",
+      "Content": "Finished the System Templating module.\nRejection reason can now be specified when rejecting an account registration request.\nUpdated the email notification content."
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/KSCDkbH.png",
+      "Description": "System Template screen",
+      "Credits": ""
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/weRuEa3.png",
+      "Description": "Rejection reason dropdown whose data is pulled from the System Templating module",
+      "Credits": ""
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/dSqZN8B.png",
+      "Description": "Updated email notification format",
+      "Credits": ""
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "August 9",
+      "Content": "[Revision] Separated the full name input in the register screen into last name, first name, and middle initial.\n[Revision] Updated the subwindow content with graphics and simplified wording.\n[Revision] Added email and input validation on the register and log in screens."
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/Rk7ZjkC.png",
+      "Description": "Updated register screen",
+      "Credits": ""
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/zwRnUka.png",
+      "Description": "Updated subwindow content",
+      "Credits": ""
+    },
+    {
+      "Type": "Primary_Title",
+      "Content": "Week 3 | 30 (August 11 - 16)"
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "August 11",
+      "Content": "[Revision] Updated the Home page that displays action tiles and pending actions at the top.\n[Revision] The NavigationRail icons will now display a red badge if there are pending actions in its corresponding tab."
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/4b2K1om.png",
+      "Description": "Updated home screen",
+      "Credits": ""
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "August 12",
+      "Content": "[Revision] Updated the Accounts Management module to have quick actions at each table rows.\n[Revision] Updated the Accounts Management module to display the counts of account types as cards.\nAdded a search bar for the Accounts Management module."
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/QwAMMvd.png",
+      "Description": "Updated Accounts Management module with new controls",
+      "Credits": ""
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/gVMh7MH.png",
+      "Description": "Instantaneous search bar on the Accounts Management module",
+      "Credits": ""
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "August 13",
+      "Content": "Maps displayed in the Map Editor is now tied to actual map data.\nCreating a Room Marker now renders a movable marker element in the map.\nMoved the Directory list in its own panel on the left.\nThe Directory list now lists the individual rooms properly."
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/mzm6Coo.png",
+      "Description": "WIP Map Editor screen",
+      "Credits": ""
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "August 14",
+      "Content": "Clicking on an item from the Directory list or the room marker elements themselves now zooms into that room marker element and switches to the associated building and room when necessary.\nThe Map and Directory list had been added to the Interactive Map screen in the main page."
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/47tK04n.png",
+      "Description": "Clicking on a room marker or item from the Directory list highlights that marker",
+      "Credits": ""
     }
   ]
 }
