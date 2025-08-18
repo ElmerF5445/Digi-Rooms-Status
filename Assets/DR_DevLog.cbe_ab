@@ -393,6 +393,16 @@
       "Source": "https://i.imgur.com/47tK04n.png",
       "Description": "Clicking on a room marker or item from the Directory list highlights that marker",
       "Credits": ""
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "August 15",
+      "Content": "Slide contents are now conditionally rendered to reduce load."
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "August 16",
+      "Content": "Added toggles for the left and right panels when needed.\nUpdated the create new map item window to include horizontal tabs, as opposed to the previous dropdown.\nUpdated the slide switching system to conditionally render slides."
     }
   ]
 }
