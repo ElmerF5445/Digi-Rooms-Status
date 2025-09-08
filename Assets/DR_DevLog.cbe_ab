@@ -13,6 +13,10 @@
       "Content": "Week 21 (June 9 - 14)"
     },
     {
+      "Type": "Primary_Title",
+      "Content": ""
+    },
+    {
       "Type": "Bulleted_List",
       "Header": "June 9",
       "Content": "Began the development with the creation of the client and server folder.\nSet up the development environment.\nCreated the log in and register screen."
@@ -403,6 +407,173 @@
       "Type": "Bulleted_List",
       "Header": "August 16",
       "Content": "Added toggles for the left and right panels when needed.\nUpdated the create new map item window to include horizontal tabs, as opposed to the previous dropdown.\nUpdated the slide switching system to conditionally render slides."
+    },
+    {
+      "Type": "Primary_Title",
+      "Content": "Week 4 | 31 (August 18 - 23)"
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "August 18",
+      "Content": "Added a table view that folds based on the hierarchy of the buildings, floors, and rooms."
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/MHduuFj.png",
+      "Description": "Table View for Map Editor",
+      "Credits": ""
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "August 19",
+      "Content": "Added image indicators to horizontal tabs on the Add Item subwindow."
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/4XAGPnr.png",
+      "Description": "Updated horizontal tab appearance",
+      "Credits": ""
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "August 20",
+      "Content": "All control buttons on the Table View now function properly.\nBuilding, Floor, and Room fields are now editable from the right side panel."
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/8JHtndM.png",
+      "Description": "Table View displaying editable text fields when the Pencil icon is clicked from the corresponding row",
+      "Credits": ""
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "August 21",
+      "Content": "Added confirmation subwindows for critical actions such as deleting items.\nRemove parents (e.g., building or floor) also removes all of its children (e.g., removing a floor also removes all of the rooms associated to it)."
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/jwXhtCs.png",
+      "Description": "Subwindow for confirming the removal of a room",
+      "Credits": ""
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "August 22",
+      "Content": "Added the Bin screen for Map Editor.\nAll table buttons for the Bin screen are now functional.\nAdded a restore option for \"deleted\" items with options for singular or cascading restorations."
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/u1HOZKy.png",
+      "Description": "Subwindow for restoring a removed building to place it back into the active list viewable by everyone",
+      "Credits": ""
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "August 23",
+      "Content": "Updated branding for NSDAPS Digi-Rooms."
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/TpLfCmY.png",
+      "Description": "Updated logo for NSDAPS Digi-Rooms",
+      "Credits": ""
+    },
+    {
+      "Type": "Primary_Title",
+      "Content": "Week 5 | 32 (August 25 - 30)"
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "August 25 - 30",
+      "Content": "No significant progress was made to make way for the Prelim exams."
+    },
+    {
+      "Type": "Primary_Title",
+      "Content": "August 6 | 33 (September 1 - 6)"
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "September 1",
+      "Content": "Began work on the Schedule Management module."
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/PoxXhmK.png",
+      "Description": "WIP Schedule Management screen",
+      "Credits": ""
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "September 2",
+      "Content": "Updated Icon system to consider react-icons.\nUpdated various UI_* components.\nSet Interactive Map max size limit to 1000x1000px.\nAdded a Create a Reservation window for data entry."
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/6gakdbS.png",
+      "Description": "WIP Create a Reservation subwindow, Step 1",
+      "Credits": ""
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "September 3",
+      "Content": "Added a Status page to track development and testing progress. This screen is only accessible for accounts that have signed in.\nAll dropdowns and inputs for Step 1 of Create Reservation had been hooked to their necessary data points."
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/kJggZrx.png",
+      "Description": "Tracking page for development and testing progress",
+      "Credits": ""
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/dhd2jQj.png",
+      "Description": "A separate List of Attendees subwindow for adding attendees in a reserved activity",
+      "Credits": ""
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/hdacBgq.png",
+      "Description": "A separate List of Equipment subwindow for choosing equipment from the list specified by the Templating module",
+      "Credits": ""
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "September 4",
+      "Content": "Fixed map item restoration issues in Map Editor.\nFixed issues on Step 1 of Create Reservation."
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "September 5",
+      "Content": "Fixed more issues on the Create Reservation subwindow."
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "September 6",
+      "Content": "All dropdowns and inputs for Step 2 of Create Reservation had been hooked to their necessary data points.\nAdded a Choose from the Interactive Map subwindow to choose a room from the Interactive Map data.\nFinished basic data entry for Create Reservation."
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/IeRpnIU.png",
+      "Description": "WIP Create a Reservation subwindow, Step 2",
+      "Credits": ""
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/U5vegYX.png",
+      "Description": "A separate Choose from the Map subwindow for choosing a room from the Interactive Map module",
+      "Credits": ""
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/qXhn5kA.png",
+      "Description": "WIP Create a Reservation subwindow, Step 3",
+      "Credits": ""
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/e09E2iW.png",
+      "Description": "Confirmation subwindow when the reservation was successfully committed into the database",
+      "Credits": ""
     }
   ]
 }
