@@ -574,6 +574,38 @@
       "Source": "https://i.imgur.com/e09E2iW.png",
       "Description": "Confirmation subwindow when the reservation was successfully committed into the database",
       "Credits": ""
+    },
+    {
+      "Type": "Primary_Title",
+      "Content": "Week 7 | 34 (September 8 - 13)"
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "September 8",
+      "Content": "Fixed Unsaved Changes detection to stop actions before the subwindow appears.\nAdded an Unsaved Changes subwindow for Create Reservation"
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/4UvK3NG.png",
+      "Description": "",
+      "Credits": ""
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "September 9",
+      "Content": "Added List and Calendar view that displays existing activities scheduled."
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/JOs3eBW.png",
+      "Description": "WIP List View screen",
+      "Credits": ""
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/0uqWw8u.png",
+      "Description": "WIP Calendar View screen",
+      "Credits": ""
     }
   ]
 }
