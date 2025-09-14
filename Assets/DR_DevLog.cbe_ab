@@ -606,6 +606,17 @@
       "Source": "https://i.imgur.com/0uqWw8u.png",
       "Description": "WIP Calendar View screen",
       "Credits": ""
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "September 10",
+      "Content": "Updated the mobile view UI for all screens and slides."
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/ZVZ2fUW.png",
+      "Description": "Simulated mobile view of various screens and windows",
+      "Credits": ""
     }
   ]
 }
