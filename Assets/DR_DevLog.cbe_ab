@@ -617,6 +617,108 @@
       "Source": "https://i.imgur.com/ZVZ2fUW.png",
       "Description": "Simulated mobile view of various screens and windows",
       "Credits": ""
+    },
+    {
+      "Type": "Primary_Title",
+      "Content": "Week 8 | 35 (September 15 - 20)"
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "September 15",
+      "Content": "Updated the UI for the list view for Schedules Management.\nAdded approval and rejection actions for both Staff and Admin roles in Schedules Management."
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/8Tx5iQI.png",
+      "Description": "Updated Schedules Management screen with colored chips indicating the schedule's approval status",
+      "Credits": ""
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "September 16",
+      "Content": "Reservation requests of the user are now listed inside the Today panel in the Home screen.\nPending Staff and Admin actions for Schedules Management are now visible in the Home screen.\nMap and Schedules action tiles in the Home screen now link to the Schedules Management screen."
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/1HtqS7W.png",
+      "Description": "Updated Home screen showing the user's reservations and their status in the right side panel.",
+      "Credits": ""
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "September 17",
+      "Content": "Scheduled activities now change the room marker availability state in the Interactive Map."
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/JHQz0w7.png",
+      "Description": "Updated Interactive Map screen showing the room's availability depending on the set time range",
+      "Credits": ""
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "September 18",
+      "Content": "Updated backend routing for Schedules Management and Accounts Management and separated Update actions with Approve/Reject actions.\nGeneralized the system's email service so it is usable by other modules.\nUpdated the system's email service to use the same general HTML template.\nUpdated email formats for Accounts Management updates.\nAdded email notifications for Schedules Management updates."
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/e0ZcQcP.png",
+      "Description": "Updated email format for Accounts Management",
+      "Credits": ""
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/tjEPylj.png",
+      "Description": "Sample email notification for Schedules Management",
+      "Credits": ""
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "September 19",
+      "Content": "Added backend routing and logic for conflict detection in Schedules Management."
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "September 20",
+      "Content": "Added conflict detection in the Add Reservation subwindow in Schedules Management."
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/NEVBYgH.png",
+      "Description": "Updated Add Reservation subwindow displaying the conflicting schedules with the reservation's time and room",
+      "Credits": ""
+    },
+    {
+      "Type": "Primary_Title",
+      "Content": "Week 9 | 36 (September 22 - 27)"
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "September 22",
+      "Content": "Added a confirmation subwindow for rejection actions in Schedules Management.\nAdded a test subwindow that generates a document from a selected schedule."
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/a13xd6p.png",
+      "Description": "Rejection subwindow requiring the user to specify a rejection reason",
+      "Credits": ""
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/EkmrY0U.png",
+      "Description": "Test document window generated from a selected schedule",
+      "Credits": ""
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "September 23",
+      "Content": "Added a Resolve Conflict window with time and room suggestions based on the user's specified reservation time and location."
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/GGEl4IN.png",
+      "Description": "WIP Conflict Resolution subwindow",
+      "Credits": ""
     }
   ]
 }
