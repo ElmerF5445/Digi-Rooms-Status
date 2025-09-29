@@ -719,6 +719,44 @@
       "Source": "https://i.imgur.com/GGEl4IN.png",
       "Description": "WIP Conflict Resolution subwindow",
       "Credits": ""
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "September 24",
+      "Content": "Time and Room suggestions are now clickable. Their suggested time/room is applied to the working Reservation data."
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "September 25",
+      "Content": "Moved administrative actions to its own Manage Schedules screen with additional actions for modifying schedule data.\nRemoved administrative actions on the right-side panel of the Schedules screen."
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/dhuD0cs.png",
+      "Description": "WIP Manage Schedules screen",
+      "Credits": ""
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "September 26",
+      "Content": "Added a reschedule action. Time slot suggestions are clickable to apply them into the schedule."
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/Slq7Kra.png",
+      "Description": "",
+      "Credits": ""
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "September 27",
+      "Content": "Added a relocate action. Room suggestions are clickable to apply them into the schedule."
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/ZD58TBV.png",
+      "Description": "",
+      "Credits": ""
     }
   ]
 }
