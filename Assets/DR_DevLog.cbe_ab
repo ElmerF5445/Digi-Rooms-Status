@@ -17,6 +17,10 @@
       "Content": ""
     },
     {
+      "Type": "Primary_Title",
+      "Content": ""
+    },
+    {
       "Type": "Bulleted_List",
       "Header": "June 9",
       "Content": "Began the development with the creation of the client and server folder.\nSet up the development environment.\nCreated the log in and register screen."
@@ -757,6 +761,49 @@
       "Source": "https://i.imgur.com/ZD58TBV.png",
       "Description": "",
       "Credits": ""
+    },
+    {
+      "Type": "Primary_Title",
+      "Content": "Week 10 | 37 (September 29 - October 4)"
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "September 29",
+      "Content": "Added an edit action.\nApproval actions now ask for confirmation if the schedule being approved conflicts with another schedule."
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/fMZxnx9.png",
+      "Description": "",
+      "Credits": ""
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/F394WZA.png",
+      "Description": "",
+      "Credits": ""
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "September 30",
+      "Content": "Categorized the requests made by the user into 3 distinct tabs.\nAdded the Timetable view for the Schedules screen.\nAdded a \"Past date\" and \"Upcoming\" status tag on schedules."
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/s6L5jzk.png",
+      "Description": "",
+      "Credits": ""
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/60P0zpp.png",
+      "Description": "",
+      "Credits": ""
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "October 4",
+      "Content": "Clicking on a day in the Calendar view opens the Create Reservation subwindow with the clicked date already set.\nDragging a certain time range in the Timetable view opens the Create Reservation subwindow with the specified time range already set.\nFinished the Schedules Management module."
     }
   ]
 }
