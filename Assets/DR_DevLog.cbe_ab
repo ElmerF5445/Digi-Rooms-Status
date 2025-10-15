@@ -804,6 +804,109 @@
       "Type": "Bulleted_List",
       "Header": "October 4",
       "Content": "Clicking on a day in the Calendar view opens the Create Reservation subwindow with the clicked date already set.\nDragging a certain time range in the Timetable view opens the Create Reservation subwindow with the specified time range already set.\nFinished the Schedules Management module."
+    },
+    {
+      "Type": "Primary_Title",
+      "Content": "Week 11 | 38 (October 6 - 11)"
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "October 6 - 8",
+      "Content": "Updated how slides, ribbons, subwindows, and navigation rails are rendered and handled.\nSlides and panels are now rendered depending on the current path address."
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "October 9",
+      "Content": "[Revision] Added red asterisks on input boxes that are required in the form.\n[Revision] Updated map layouts to reflect the current floor layout of the school.\n[Revision] Made map layouts more detailed.\n[Revision] Reservations can now be made from the Interactive Map screen."
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/XppERiz.png",
+      "Description": "",
+      "Credits": ""
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/nIUPu4X.png",
+      "Description": "",
+      "Credits": ""
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "October 10",
+      "Content": "Updated the System Templating screen and organized similar sections into their own tabs.\nRoom types now have specified blocked hours that warns the user when their reservation conflicts with that room's assigned blocked hours."
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/lb9Iz87.png",
+      "Description": "",
+      "Credits": ""
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "October 11",
+      "Content": "Updated Room and Templating schema to consider blocked hours.\nMap Editor now displays and allows edits of blocked hours."
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/LEW1hCo.png",
+      "Description": "",
+      "Credits": ""
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/1GcVG0v.png",
+      "Description": "",
+      "Credits": ""
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/aTsG4Zc.png",
+      "Description": "",
+      "Credits": ""
+    },
+    {
+      "Type": "Primary_Title",
+      "Content": "Week 12 | 39 (October 13 - 18)"
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "October 13",
+      "Content": "[Revision] Blocked hours are now displayed as warnings (soft conflicts) in the Schedules Management screens."
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/zCCmEi7.png",
+      "Description": "",
+      "Credits": ""
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/iccxmVx.png",
+      "Description": "",
+      "Credits": ""
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "October 14",
+      "Content": "Began work on the Reporting module.\nAdded a document renderer component (letter size) that paginates contents passed on it.\n[Revision] Added a Monthly Schedule reporting that lists all approved schedules within the selected range.\nDocuments shown in the preview can be saved as PDF, image, or printed."
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/xVmJthk.png",
+      "Description": "",
+      "Credits": ""
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "October 15",
+      "Content": "Added the Weekly Timetable report that displays all the approved schedules in a weekly timetable within the selected range and selected location."
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/KF0ZXle.png",
+      "Description": "",
+      "Credits": ""
     }
   ]
 }
