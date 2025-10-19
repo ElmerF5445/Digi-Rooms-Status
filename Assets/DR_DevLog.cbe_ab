@@ -900,11 +900,68 @@
     {
       "Type": "Bulleted_List",
       "Header": "October 15",
-      "Content": "Added the Weekly Timetable report that displays all the approved schedules in a weekly timetable within the selected range and selected location."
+      "Content": "Added the Weekly Timetable report that displays all the approved schedules in a weekly timetable within the selected range and selected location.\nAdded the Map Overview report that displays the status of rooms in a specific floor at a specific time."
     },
     {
       "Type": "Image",
       "Source": "https://i.imgur.com/KF0ZXle.png",
+      "Description": "",
+      "Credits": ""
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/nx4xWJ4.png",
+      "Description": "",
+      "Credits": ""
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "October 16",
+      "Content": "Added the Reservation Slip report that displays all the information regarding a selected reservation.\nAdded the Accounts List report that displays all the accounts and their status.\nAdded the Room Utilization report that displays metrics regarding reservation activities in a specific room."
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/whc1vQB.png",
+      "Description": "",
+      "Credits": ""
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/g9v7spd.png",
+      "Description": "",
+      "Credits": ""
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/2yFJM9p.png",
+      "Description": "",
+      "Credits": ""
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "October 17",
+      "Content": "Added the Activity Log report that displays all the activities done within the system.\nAdded a toggle on whether the current report will be displayed normally or as a document.\nSchedules are now ordered by date.\nSchedules are now displayed depending on the user's permissions.\nUpdated the Home and Schedules slides to display the upcoming activities by date and floor."
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/pvkQJjy.png",
+      "Description": "",
+      "Credits": ""
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/e3we5EF.png",
+      "Description": "",
+      "Credits": ""
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "October 18",
+      "Content": "Added a Manage Account screen for seeing account details and changing passwords."
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/08PtzAH.png",
       "Description": "",
       "Credits": ""
     }
