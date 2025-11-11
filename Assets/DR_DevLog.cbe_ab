@@ -964,6 +964,80 @@
       "Source": "https://i.imgur.com/08PtzAH.png",
       "Description": "",
       "Credits": ""
+    },
+    {
+      "Type": "Primary_Title",
+      "Content": "Week 13 | 40 (October 20 - 25)"
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "October 20",
+      "Content": "Added a Change Password option.\nAdded a Reset Password option.\nAdded validators for password requirements."
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "October 21",
+      "Content": "All map selectors now use the same system and selected rooms are now synced between them."
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "October 23",
+      "Content": "Updated the Reporting module to include additional filters."
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "October 24",
+      "Content": "Separated backend APIs for account management actions."
+    },
+    {
+      "Type": "Primary_Title",
+      "Content": "Week 14 | 41 (October 27 - November 1)"
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "October 29",
+      "Content": "Updated Map Editor options."
+    },
+    {
+      "Type": "Primary_Title",
+      "Content": "Week 15 | 42 (November 3 - 8)"
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "November 3",
+      "Content": "Updated login/register UI design."
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/IgZWtpk.png",
+      "Description": "",
+      "Credits": ""
+    },
+    {
+      "Type": "Primary_Title",
+      "Content": "Week 16 | 43 (November 10 - 15)"
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "November 10",
+      "Content": "Updated the time picker with custom UI.\nUpdated the date picker with custom UI."
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/dOFZ7Yr.png",
+      "Description": "",
+      "Credits": ""
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/2tGYZXI.png",
+      "Description": "",
+      "Credits": ""
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "November 11",
+      "Content": "[Revision] Login attempts will now get rate limited after the third failed attempt."
     }
   ]
 }
