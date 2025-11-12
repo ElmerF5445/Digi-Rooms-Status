@@ -1038,6 +1038,23 @@
       "Type": "Bulleted_List",
       "Header": "November 11",
       "Content": "[Revision] Login attempts will now get rate limited after the third failed attempt."
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "November 12",
+      "Content": "Updated Reports module to use the new date pickers.\nAdded a new search, sort, and filter component.\n[Revision] All schedule lists now use the new search/sort/filter component. It is now filterable by approval state and sorted by date.\n[Revision] Added an activity trail for accounts and selected reservations. It is also visible on the user's account page and a selected reservation on the manage request page."
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/xZ1itRl.png",
+      "Description": "",
+      "Credits": ""
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/CX4SNMg.png",
+      "Description": "",
+      "Credits": ""
     }
   ]
 }
