@@ -1042,7 +1042,7 @@
     {
       "Type": "Bulleted_List",
       "Header": "November 12",
-      "Content": "Updated Reports module to use the new date pickers.\nAdded a new search, sort, and filter component.\n[Revision] All schedule lists now use the new search/sort/filter component. It is now filterable by approval state and sorted by date.\n[Revision] Added an activity trail for accounts and selected reservations. It is also visible on the user's account page and a selected reservation on the manage request page."
+      "Content": "Updated Reports module to use the new date pickers.\nAdded a new search, sort, and filter component.\n[Revision] All schedule lists now use the new search/sort/filter component. It is now filterable by approval state and sorted by date.\n[Revision] Added an activity trail for accounts in User Trail of the Reporting page."
     },
     {
       "Type": "Image",
@@ -1053,6 +1053,51 @@
     {
       "Type": "Image",
       "Source": "https://i.imgur.com/CX4SNMg.png",
+      "Description": "",
+      "Credits": ""
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "November 13",
+      "Content": "[Revision] Updated the Monthly Schedule interface in the Reporting page.\n[Revision] Updated the User Trail interface in the Reporting page.\n[Revision] Room Utilization data now takes a date range into consideration."
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/YCjQJm0.png",
+      "Description": "",
+      "Credits": ""
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "November 14",
+      "Content": "[Revision] Readded capacity in the Map Editor.\n[Revision] Class hours and capacity (limitations of a room) had been added to the Interactive Map and Create a Reservation window.\nUpdated the UI for the Create a Reservation."
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/2m7bqpf.png",
+      "Description": "",
+      "Credits": ""
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/4Dm54lm.png",
+      "Description": "",
+      "Credits": ""
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "November 15",
+      "Content": "[Revision] Added an activity trail for a reservation. It is viewable on the Manage Requests and Reporting page.\n[Revision] Row items on the Monthly Schedule screen now overflows properly when viewed in Document Preview mode.\nUpdated the Time Slot Suggestion engine to suggest more accurate time slots."
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/IRbCzI3.png",
+      "Description": "",
+      "Credits": ""
+    },
+    {
+      "Type": "Image",
+      "Source": "https://i.imgur.com/q7bhpse.png",
       "Description": "",
       "Credits": ""
     }
