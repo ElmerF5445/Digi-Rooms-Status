@@ -1100,6 +1100,44 @@
       "Source": "https://i.imgur.com/q7bhpse.png",
       "Description": "",
       "Credits": ""
+    },
+    {
+      "Type": "Primary_Title",
+      "Content": "Week 17 | 44 (November 17 - 22)"
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "November 17",
+      "Content": "Added network error detection that will notify the user if it can't reach the server.\nUpdated log in page to include a slideshow of school facilities."
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "November 18",
+      "Content": "Schedule cards on the home screen now redirects to the schedules and manage schedules screen."
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "November 19",
+      "Content": "List filters and Schedule Timeline view now correctly displays activities taking place at the current day.\nDifferentiated the appearance of chips for schedules made by the user.\nUpdated Calendar view layout."
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "November 20",
+      "Content": "Compressed slideshow images in the log in page."
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "November 22",
+      "Content": "[Revision] Rate limiting time now doubles instead of being incremented by 10 seconds for every failed attempt in the log in page.\n[Revision] Added the user's name in the document footer of all report documents."
+    },
+    {
+      "Type": "Primary_Title",
+      "Content": "Week 18 | 45 (November 24 - 29)"
+    },
+    {
+      "Type": "Bulleted_List",
+      "Header": "November 24",
+      "Content": "Fixed problem with stale data when logging out and logging in with a different account.\nFixed visual overflow issues with sidebars."
     }
   ]
 }
